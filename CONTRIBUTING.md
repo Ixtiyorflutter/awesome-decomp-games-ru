@@ -23,6 +23,14 @@
 | [Название игры (проект)](https://github.com/owner/repo) | Платформа | ⭐ | Score | ✅ |
 ```
 
+## Быстрый способ без Git
+
+Открой [Issue «Добавить проект»](../../issues/new?template=add-project.yml) — форма подскажет, что заполнить.
+
+## Полный каталог
+
+Папка `catalog/` генерируется автоматически скриптом `scripts/build_catalog.py` из первоисточника, поэтому руками её не правь: новые проекты в полный каталог лучше отправлять в [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Правки в README, уроки и переводы присылай сюда.
+
 ## Как отправить
 
 1. Сделай форк репозитория.
