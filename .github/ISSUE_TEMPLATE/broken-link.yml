@@ -1,0 +1,18 @@
+name: 🔗 Сломанная ссылка или ошибка
+description: Сообщить о мёртвой ссылке, устаревших данных или ошибке в гайде
+title: "[Ошибка] "
+labels: ["ошибка"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Где ошибка
+      placeholder: README, часть 7, строка с …
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Что не так и как исправить
+    validations:
+      required: true

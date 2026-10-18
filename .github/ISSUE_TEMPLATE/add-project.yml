@@ -1,0 +1,44 @@
+name: ➕ Добавить проект
+description: Предложить декомпиляцию, рекомпиляцию, порт или ремейк движка
+title: "[Проект] "
+labels: ["новый проект"]
+body:
+  - type: input
+    id: game
+    attributes:
+      label: Игра
+      placeholder: "The Legend of Zelda: Ocarina of Time"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Ссылка на исходный код
+      description: GitHub, GitLab, Codeberg или официальная страница. Никаких ссылок на ROM и образы.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Тип проекта
+      options: [Статическая рекомпиляция, Декомпиляция, Порт на исходниках, Ремейк движка, Дизассемблирование, Браузерный порт, Инструмент]
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Платформа оригинала
+      placeholder: N64, PS1, Xbox 360, ПК…
+  - type: textarea
+    id: about
+    attributes:
+      label: Коротко о проекте
+      description: Одно-два предложения своими словами. Есть ли готовые релизы?
+  - type: checkboxes
+    id: legal
+    attributes:
+      label: Подтверждение
+      options:
+        - label: Проект не распространяет ROM, образы и игровые ресурсы
+          required: true
