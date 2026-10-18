@@ -1,0 +1,62 @@
+# Аркадные автоматы: декомпиляции, рекомпиляции и порты игр (29)
+
+[← Главная](../../README.md) · [Весь каталог](../README.md)
+
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **16.10.2026**.
+
+## 🏆 Во что поиграть в первую очередь
+
+1. [OutRun (CannonBall DX)](https://github.com/Endprodukt/cannonball-dx) — ремейк движка, ⭐ 111, score 3.95
+2. [Virtua Fighter 2](https://github.com/mr-finster/vf2-recomp) — рекомпиляция, ⭐ 32, score 3.95
+3. [Initial D Arcade Stage Ver.3](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-) — рекомпиляция, ⭐ 148, score 3.9
+4. [Time Crisis II (namco22-decompile)](https://github.com/spacestate1/namco22-decompile) — декомпиляция, ⭐ 206, score 3.8
+5. [Virtua Fighter (Virtua Fighter Recomp)](https://github.com/mr-finster/vf1-recomp) — рекомпиляция, ⭐ 15, score 3.75
+6. [Time Crisis (Time Crisis VR)](https://github.com/DR-89/time-crisis-vr) — декомпиляция, ⭐ 68, score 3.45
+7. [Defender (Falcon)](https://github.com/therealsark02/defender) — порт, ⭐ 12, score 3.3
+8. [Jackal (UEFI_Jackal)](https://github.com/MikeWuPing/UEFI_Jackal) — декомпиляция, ⭐ 14, score 2.65
+
+## Все активные проекты (23)
+
+| Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
+|---|---|---|---|---|---|---|---|
+| [OutRun (CannonBall DX)](https://github.com/Endprodukt/cannonball-dx) | Arcade | ремейк движка | 111 | 3.95 | 2026-10-07 | ✅ | CannonBall DX – OutRun fork focused on modern racing wheels, multi-device input, expanded FFB, 21:9 ultrawide and arcade cabinets. |
+| [Virtua Fighter 2](https://github.com/mr-finster/vf2-recomp) | Arcade | рекомпиляция | 32 | 3.95 | 2026-10-16 | ✅ | Virtua Fighter 2 (Sega Model 2, 1994) for Mac, Windows and Steam Deck: the arcade's i960 program recompiled to native code, up to 6x, widescreen, smo… |
+| [Initial D Arcade Stage Ver.3](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-) | Arcade | рекомпиляция | 148 | 3.9 | 2026-09-21 | ✅ | Native SH-4 AOT recompilation of Initial D Arcade Stage 3 (NAOMI 2) — BIOS-free Vulkan public early demo (WIP). |
+| [Time Crisis II (namco22-decompile)](https://github.com/spacestate1/namco22-decompile) | Arcade | декомпиляция | 206 | 3.8 | 2026-10-12 | ✅ | A  decompilation of Namco system 22 |
+| [Virtua Fighter (Virtua Fighter Recomp)](https://github.com/mr-finster/vf1-recomp) | Arcade | рекомпиляция | 15 | 3.75 | 2026-10-16 | ✅ | Virtua Fighter (Sega Model 1, 1993) statically recompiled for Mac, Windows and Steam Deck: up to 6x, widescreen, smooth 120 fps. Bring your own vf.zi… |
+| [Vampire Savior](https://github.com/tmcleroy/vampire-savior-recomp) | Arcade | рекомпиляция | 15 | 3.7 | 2026-10-15 | — | Unofficial native PC port of Vampire Savior (CPS-2 arcade) via static recompilation, with a training mode: macOS, Linux, Steam Deck, Windows. Require… |
+| [Time Crisis (Time Crisis VR)](https://github.com/DR-89/time-crisis-vr) | Arcade | декомпиляция | 68 | 3.45 | 2026-10-12 | ✅ | Experimental standalone Time Crisis VR port for Meta Quest 3, based on spacestate1/namco22-decompile. OpenXR, tracked pistol, physical ducking and 12… |
+| [Daytona Arcade Recomp](https://github.com/alphanu1/daytona-arcade-recomp) | Arcade | рекомпиляция | 203 | 3.4 | 2026-10-13 | — | Recomp of Daytona Racing to PC. |
+| [Dead or Alive ++ (Jiggle-or-Physics)](https://github.com/3dge7161/Jiggle-or-Physics) | Arcade | рекомпиляция | 16 | 3.35 | 2026-10-02 | — |  |
+| [Defender (Falcon)](https://github.com/therealsark02/defender) | Arcade | порт | 12 | 3.3 | 2025-08-17 | ✅ | A port of Williams Defender for the Atari ST/STE/Falcon |
+| [Green Beret (cadaver greenberet-disassembly)](https://github.com/cadaver/greenberet-disassembly) | Arcade | дизасм | 10 | 2.75 | 2026-10-11 | — | Disassembly of the C64 version of Green Beret |
+| [Jackal (UEFI_Jackal)](https://github.com/MikeWuPing/UEFI_Jackal) | Arcade | декомпиляция | 14 | 2.65 | 2026-07-22 | ✅ | UEFI Shell 环境下用 C 语言完整复刻红白机游戏《赤色要塞》（Jackal）：不模拟 NES 硬件，而是把原游戏的 6502 反汇编逐行翻译成平台无关的 C 核心，再以 UEFI GOP 做图形输出、UEFI 服务做输入与定时，在 QEMU（或真实 UEFI 环境）中原生运行 |
+| [Sinistar](https://github.com/synamaxmusic/sinistar) | Arcade | декомпиляция | 43 | 2.4 | 2025-11-16 | — | A source code rewrite to the 1983 arcade game. |
+| [SEGA Rally Championship 96](https://github.com/xandoxan65/segarally95-recomp) | Arcade | рекомпиляция | 13 | 2.4 | 2026-10-12 | — | Recomp of SEGA Rally Championship 96 for Model 2 arcade hardware |
+| [Double Dragon (double-dragon-snes)](https://github.com/rumbleminze/double-dragon-snes) | Arcade | порт | 12 | 2.4 | 2026-10-08 | — | SNES port of the NES game Double Dragon |
+| [Thrill Drive 2 (konami-viper-recomp)](https://github.com/spita90/konami-viper-recomp) | Arcade | рекомпиляция | 12 | 2.4 | 2026-10-10 | — | Static recompilation of Konami Viper arcade games (Thrill Drive 2, GTI Club 2) to native code - no game data included |
+| [Xevious (xevious (arcade -> 68k transcode))](https://github.com/jotd666/xevious) | Arcade | порт | 11 | 2.4 | 2026-08-22 | — |  |
+| [Ms. Pac-Man (mspacman500 (arcade -> 68k transcode))](https://github.com/jotd666/mspacman500) | Arcade | ремейк движка | 10 | 2.4 | 2026-08-05 | — | Remake of MsPacman for Amiga500 in 68k assembly |
+| [Sonic The Fighters](https://github.com/biggestsonicfan/stfdecomp) | Arcade | декомпиляция | 109 | 2.2 | 2025-06-07 | — | A decompilation attempt at Sonic the Fighters |
+| [Bagman (bagman (arcade -> 68k transcode))](https://github.com/jotd666/bagman) | Arcade | ремейк движка | 22 | 2.2 | 2026-02-28 | — | remake of the 1982 arcade game for Windows, NintendoDS and Amiga |
+| [Virtua Cop 2 (re-virtua-cop-2)](https://github.com/jevarg/re-virtua-cop-2) | Arcade | декомпиляция | 12 | 2.2 | 2026-05-19 | — | Reverse engineering of Virtua Cop 2 PC (1997) |
+| [Green Beret (Paul Hughes ZXSpectrumGreenBeret)](https://github.com/Paulie68000/ZXSpectrumGreenBeret) | Arcade | декомпиляция | 11 | 2 | 2025-01-03 | — |  |
+| [Virtua Fighter (arcade recompilation)](https://vf1-recomp.pages.dev) | Arcade | рекомпиляция | — | 1.8 | — | — |  |
+
+## Неактивные и архивные (6)
+
+<details><summary>Показать</summary>
+
+| Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
+|---|---|---|---|---|---|---|---|
+| [Out Run](https://github.com/djyt/cannonball) | Arcade | ремейк движка | 883 | 3.55 | 2022-01-30 | ✅ | Cannonball: An Enhanced OutRun Engine |
+| [Space Invaders](https://github.com/loadzero/si78c) | Arcade | ремейк движка | 798 | 2.6 | 2019-12-06 | — | si78c is a memory accurate reimplementation of Space Invaders in C. |
+| [Asteroids (asteroids-disassembly)](https://github.com/nmikstas/asteroids-disassembly) | Arcade | дизасм | 55 | 2.15 | 2019-12-16 | — | Disassembly of the Asteroids arcade game firmware |
+| [Wizard of Wor (dabadab wizardofwor)](https://github.com/dabadab/wizardofwor) | Arcade | дизасм | 33 | 2.15 | 2021-03-21 | — | Wizard of Wor for C64 disassembly |
+| [Jackal (NES-Jackal_Disassembly_Fully_Commented)](https://github.com/RayofJay/NES-Jackal_Disassembly_Fully_Commented) | Arcade | дизасм | 28 | 2.15 | 2023-05-29 | — | A full disassembly for Jackal on the NES.  All sections are commented.  Graphical data is omitted. |
+| [Defender (Defender-Source-Code)](https://github.com/AaronBottegal/Defender-Source-Code) | Arcade | декомпиляция | 11 | 1.6 | 2022-01-08 | — | Defender arcade game code reverse engineered back into source. |
+
+</details>
+
+---
+[← Главная](../../README.md) · [Весь каталог](../README.md)
