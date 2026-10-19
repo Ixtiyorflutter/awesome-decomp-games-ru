@@ -1,8 +1,8 @@
-# 🌐 Браузерные порты — полный список (57)
+# 🌐 Браузерные порты — полный список (55)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **16.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **19.10.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -55,15 +55,14 @@
 
 ⚠️ Сайты сторонние. Никогда не устанавливай лаунчеры и расширения, которые они предлагают.
 
-## Активные проекты (53)
+## Активные проекты (51)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
-| [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 310 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
-| [Grand Theft Auto: Vice City (reVCDOS (DOS.Zone WASM port))](https://github.com/Lolendor/reVCDOS) | PS2 | 406 | 4.15 | 2026-05-29 | — | Web-based port of GTA: Vice City running in browser via WebAssembly. |
-| [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 286 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
-| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 161 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
-| [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 55 | 4.15 | 2026-10-03 | — | Custom frontend for the Emscripten port of isle-portable |
+| [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 312 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
+| [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 287 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
+| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 162 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
+| [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 56 | 4.15 | 2026-10-18 | — | Custom frontend for the Emscripten port of isle-portable |
 | [Call of Duty: Black Ops Zombies](http://vel.gg/bo1z) | PC | — | 3.95 | — | — |  |
 | [Call of Duty: Modern Warfare 2](http://ovz-game-production.up.railway.app) | PC | — | 3.95 | — | — | Browser Modern Warfare 2 reconstruction. The host currently shows a traffic check before loading. |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
@@ -108,10 +107,9 @@
 | [Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/Black-Ops-2) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (Hijack… |
 | [Kino der Toten (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/COD-ZOMBIES) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). Three.js reconstruction of the Black Ops Zombies map, solo survival. |
 | [Kino der Toten (theeagler1234 mirror)](https://theeagler1234-alt.github.io/kino-der-toten) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). Three.js reconstruction of the Black Ops Zombies map, solo survival. |
-| [Grand Theft Auto: Vice City (revcDOS (DOS.Zone reVC browser project))](https://github.com/Carter54git/revcdos) | PS2 | 132 | 3.7 | 2026-01-04 | ✅ | reVCdos |
-| [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | 18 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
-| [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | 10 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
-| [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | 11 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |
+| [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
+| [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | 11 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
+| [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | 12 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |
 
 ## Неактивные и архивные (4)
 
@@ -122,7 +120,7 @@
 | [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 417 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
 | [Urban Terror (ut.pieter.com (ioUrbanTerror -> WebAssembly))](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) | PC | 152 | 3.55 | 2023-02-03 | ✅ | The officially supported ioquake3 engine by the Frozen Sand Development Team for the game Urban Terror 4.x |
 | [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | PC | 146 | 3.35 | 2019-10-23 | — | A re-upload of mittorn's Emscripten port of Xash3D. |
-| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 118 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
+| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 119 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
 
 </details>
 
