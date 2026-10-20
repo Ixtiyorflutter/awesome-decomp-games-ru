@@ -1,109 +1,114 @@
-# GameCube и Wii: декомпиляции, рекомпиляции и порты игр (168)
+# GameCube и Wii: декомпиляции, рекомпиляции и порты игр (173)
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **19.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **20.10.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
-1. [The Legend of Zelda: Twilight Princess (Dusklight)](https://github.com/TwilitRealm/dusklight) — порт, ⭐ 5.9k, score 4.75
-2. [Super Mario Galaxy (Galaxy Android)](https://github.com/OpenPort-Labs/Galaxy-Android) — порт, ⭐ 228, score 4.6
+1. [The Legend of Zelda: Twilight Princess (Dusklight)](https://github.com/TwilitRealm/dusklight) — порт, ⭐ 6.0k, score 4.75
+2. [Super Mario Galaxy (Galaxy Android)](https://github.com/OpenPort-Labs/Galaxy-Android) — порт, ⭐ 237, score 4.4
 3. [Mario Kart Wii](https://github.com/patchzyy/Wiicompiled) — порт, ⭐ 1.2k, score 4.35
 4. [Sonic and the Secret Rings (Project Reignition)](https://github.com/kumapauz/project-reignition) — ремейк движка, ⭐ 299, score 4.35
-5. [Mario Kart Wii (MKW-3DS)](https://github.com/MiniBandit/MKW-3DS) — порт, ⭐ 215, score 4.35
-6. [Mario Kart Wii](https://github.com/chrissotraidis/kartpad) — порт, ⭐ 685, score 4.15
-7. [Metroid Prime Port](https://github.com/Odrannnn/MetroidPrimePort) — порт, ⭐ 467, score 4.15
-8. [The Legend of Zelda: The Wind Waker](https://github.com/chrissotraidis/bluewake) — рекомпиляция, ⭐ 414, score 4.15
-9. [Super Mario Strikers (PC Port)](https://github.com/new-coke/strikers) — порт, ⭐ 343, score 4.15
-10. [Pikmin (Open Nectar PC Port)](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port) — порт, ⭐ 258, score 4.15
+5. [Mario Kart Wii (MKW-3DS)](https://github.com/MiniBandit/MKW-3DS) — порт, ⭐ 222, score 4.35
+6. [Mario Kart Wii](https://github.com/chrissotraidis/kartpad) — порт, ⭐ 690, score 4.15
+7. [MeleePC](https://github.com/999sian/melee-pc) — рекомпиляция, ⭐ 509, score 4.15
+8. [Metroid Prime Port](https://github.com/Odrannnn/MetroidPrimePort) — порт, ⭐ 473, score 4.15
+9. [The Legend of Zelda: The Wind Waker](https://github.com/chrissotraidis/bluewake) — рекомпиляция, ⭐ 423, score 4.15
+10. [Super Mario Strikers (PC Port)](https://github.com/new-coke/strikers) — порт, ⭐ 344, score 4.15
 
-## Все активные проекты (150)
+## Все активные проекты (155)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [The Legend of Zelda: Twilight Princess (Dusklight)](https://github.com/TwilitRealm/dusklight) | GameCube | порт | 5.9k | 4.75 | 2026-10-10 | ✅ | Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements. |
-| [Super Mario Galaxy (Galaxy Android)](https://github.com/OpenPort-Labs/Galaxy-Android) | Wii | порт | 228 | 4.6 | 2026-10-19 | ✅ | Native 100% ARM64 Android port of the 2007 cosmic gravity platformer with OpenGL ES 3.2, AAudio, Hor+ ultrawide, and touch controls. |
+| [The Legend of Zelda: Twilight Princess (Dusklight)](https://github.com/TwilitRealm/dusklight) | GameCube | порт | 6.0k | 4.75 | 2026-10-10 | ✅ | Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements. |
+| [Super Mario Galaxy (Galaxy Android)](https://github.com/OpenPort-Labs/Galaxy-Android) | Wii | порт | 237 | 4.4 | 2026-10-20 | ✅ | Native 100% ARM64 Android port of the 2007 cosmic gravity platformer with OpenGL ES 3.2, AAudio, Hor+ ultrawide, and touch controls. |
 | [Animal Crossing](https://github.com/flyngmt/ACGC-PC-Port) | GameCube | порт | 1.5k | 4.35 | 2026-08-01 | — | Unofficial PC Port of Animal Crossing Gamecube |
-| [Mario Kart Wii](https://github.com/patchzyy/Wiicompiled) | Wii | порт | 1.2k | 4.35 | 2026-10-18 | ✅ | Wiicompiled |
+| [Mario Kart Wii](https://github.com/patchzyy/Wiicompiled) | Wii | порт | 1.2k | 4.35 | 2026-10-19 | ✅ | Wiicompiled |
 | [Sonic and the Secret Rings (Project Reignition)](https://github.com/kumapauz/project-reignition) | Wii | ремейк движка | 299 | 4.35 | 2026-09-25 | ✅ | The Sonic and the Secret Rings fan-remake. |
-| [Mario Kart Wii (MKW-3DS)](https://github.com/MiniBandit/MKW-3DS) | Wii | порт | 215 | 4.35 | 2026-10-19 | ✅ | Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows). |
-| [Mario Kart Wii](https://github.com/chrissotraidis/kartpad) | Wii | порт | 685 | 4.15 | 2026-10-19 | ✅ | Mario Kart Wii and Retro Rewind, native for iOS, iPadOS, macOS, tvOS, and Android. |
-| [MeleePC](https://github.com/999sian/melee-pc) | GameCube | рекомпиляция | 495 | 4.15 | 2026-10-19 | — | Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc. |
-| [Metroid Prime Port](https://github.com/Odrannnn/MetroidPrimePort) | GameCube | порт | 467 | 4.15 | 2026-10-19 | ✅ | Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp decompilation. No emulator, no game assets include… |
-| [The Legend of Zelda: The Wind Waker](https://github.com/chrissotraidis/bluewake) | GameCube | рекомпиляция | 414 | 4.15 | 2026-10-19 | ✅ | The Legend of Zelda: The Wind Waker Recompiled. Native for MacOS, iOS, Windows, Linux, and Android. |
-| [Super Mario Strikers (PC Port)](https://github.com/new-coke/strikers) | GameCube | порт | 343 | 4.15 | 2026-10-04 | ✅ | Super Mario Strikers for PC, Mac, Linux & Nintendo Switch. Ported from decompiled code. Not a recompilation. |
-| [Pikmin (Open Nectar PC Port)](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port) | GameCube | порт | 258 | 4.15 | 2026-10-18 | ✅ | Native Pikmin Windows/Linux/Android Port |
-| [Super Mario Galaxy (Nebula)](https://github.com/keepvaibin/nebula) | Wii | рекомпиляция | 232 | 4.15 | 2026-10-16 | ✅ | A Recompilation of Super Mario Galaxy, intended to work on Windows (with MacOS and Android support in plans). |
-| [Super Mario Sunshine (sms-pc-port)](https://github.com/TekRantGaming/sms-pc-port) | GameCube | порт | 221 | 4.15 | 2026-10-11 | ✅ | Native PC port of Super Mario Sunshine with a launcher: up to 8x resolution, MSAA, fullscreen, HD texture installer, free camera and mouse look. Wind… |
-| [Mario Kart Wii](https://github.com/dorPXP/driftdroid) | Wii | рекомпиляция | 99 | 4.15 | 2026-10-09 | ✅ | A native Android port of Mario Kart Wii and Retro Rewind. Fast, easy. |
-| [Mario Strikers Charged (mscharged-port)](https://github.com/previouslevelgames/recharged) | Wii | порт | 87 | 4.15 | 2026-10-18 | ✅ | Mario Strikers Charged for PC, Mac & Linux. Ported from decompiled code. Not a recompilation. |
-| [Star Fox Adventures (Foxhollow)](https://github.com/JackPriceBurns/foxhollow) | GameCube | порт | 74 | 4.15 | 2026-10-09 | ✅ | Foxhollow: a native port of Star Fox Adventures built on the SFA decompilation and Aurora |
-| [The Legend of Zelda: The Wind Waker](https://github.com/centollOS/SwitchWaker) | GameCube | порт | 67 | 4.15 | 2026-10-18 | ✅ | Native Nintendo Switch port of The Legend of Zelda: The Wind Waker (GameCube). Bring your own game files. |
-| [Skies of Arcadia Legends](https://github.com/ogdanimal/SkiesOfArcadiaLegends-Recomp) | GameCube | рекомпиляция | 35 | 4.15 | 2026-10-19 | — | Native port of Skies of Arcadia Legends (GameCube) via static recompilation. Bring your own disc. |
+| [Mario Kart Wii (MKW-3DS)](https://github.com/MiniBandit/MKW-3DS) | Wii | порт | 222 | 4.35 | 2026-10-19 | ✅ | Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows). |
+| [Mario Kart Wii](https://github.com/chrissotraidis/kartpad) | Wii | порт | 690 | 4.15 | 2026-10-20 | ✅ | Mario Kart Wii and Retro Rewind, native for iOS, iPadOS, macOS, tvOS, and Android. |
+| [MeleePC](https://github.com/999sian/melee-pc) | GameCube | рекомпиляция | 509 | 4.15 | 2026-10-19 | ✅ | Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc. |
+| [Metroid Prime Port](https://github.com/Odrannnn/MetroidPrimePort) | GameCube | порт | 473 | 4.15 | 2026-10-20 | ✅ | Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp decompilation. No emulator, no game assets include… |
+| [The Legend of Zelda: The Wind Waker](https://github.com/chrissotraidis/bluewake) | GameCube | рекомпиляция | 423 | 4.15 | 2026-10-20 | ✅ | The Legend of Zelda: The Wind Waker Recompiled. Native for MacOS, iOS, Windows, Linux, and Android. |
+| [Super Mario Strikers (PC Port)](https://github.com/new-coke/strikers) | GameCube | порт | 344 | 4.15 | 2026-10-04 | ✅ | Super Mario Strikers for PC, Mac, Linux & Nintendo Switch. Ported from decompiled code. Not a recompilation. |
+| [Pikmin & Pikmin 2 (Open Nectar)](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port) | GameCube | порт | 264 | 4.15 | 2026-10-20 | ✅ | Native Pikmin Windows/Linux/Android Port |
+| [Super Mario Galaxy (Nebula)](https://github.com/keepvaibin/nebula) | Wii | рекомпиляция | 256 | 4.15 | 2026-10-16 | ✅ | A Recompilation of Super Mario Galaxy, intended to work on Windows (with MacOS and Android support in plans). |
+| [Super Mario Sunshine (sms-pc-port)](https://github.com/TekRantGaming/sms-pc-port) | GameCube | порт | 228 | 4.15 | 2026-10-11 | ✅ | Native PC port of Super Mario Sunshine with a launcher: up to 8x resolution, MSAA, fullscreen, HD texture installer, free camera and mouse look. Wind… |
+| [Mario Kart Wii](https://github.com/dorPXP/driftdroid) | Wii | рекомпиляция | 100 | 4.15 | 2026-10-09 | ✅ | A native Android port of Mario Kart Wii and Retro Rewind. Fast, easy. |
+| [Mario Strikers Charged (mscharged-port)](https://github.com/previouslevelgames/recharged) | Wii | порт | 91 | 4.15 | 2026-10-19 | ✅ | Mario Strikers Charged for PC, Mac & Linux. Ported from decompiled code. Not a recompilation. |
+| [Star Fox Adventures (Foxhollow)](https://github.com/JackPriceBurns/foxhollow) | GameCube | порт | 76 | 4.15 | 2026-10-09 | ✅ | Foxhollow: a native port of Star Fox Adventures built on the SFA decompilation and Aurora |
+| [The Legend of Zelda: The Wind Waker](https://github.com/centollOS/SwitchWaker) | GameCube | порт | 71 | 4.15 | 2026-10-19 | ✅ | Native Nintendo Switch port of The Legend of Zelda: The Wind Waker (GameCube). Bring your own game files. |
+| [Eternal Darkness: Sanity's Requiem](https://github.com/griches/EternalDarknessRecomp) | GameCube | рекомпиляция | 68 | 4.15 | 2026-10-19 | ✅ | Eternal Darkness: Sanity's Requiem static recompilation (DolRecomp + GXRuntime) for Mac, Windows and Linux / Steam Deck. Bring your own disc. |
 | [Super Smash Bros. Melee](https://github.com/TechProGabe/Melee-X) | GameCube | порт | 30 | 4.15 | 2026-10-06 | ✅ | Native original Xbox port of Super Smash Bros. Melee |
 | [Mario Party 4](https://github.com/mariopartyrd/marioparty4) | GameCube | декомпиляция | 875 | 4 | 2026-10-15 | — |  |
-| [Metroid Prime](https://github.com/AxioDL/metaforce) | GameCube | ремейк движка | 810 | 4 | 2026-10-18 | — | A native reimplementation of the Metroid Prime engine |
-| [Soulcalibur II](https://github.com/jackpoison-prog/RingOut) | GameCube | рекомпиляция | 164 | 3.95 | 2026-10-15 | ✅ | Native PC port of a GameCube fighting game via static recompilation - PowerPC translated to C, run as native x86-64 on a Dolphin-derived runtime |
-| [Super Smash Bros. Melee (Melee Unlocked)](https://github.com/Hero88go/melee-unlocked) | GameCube | рекомпиляция | 123 | 3.95 | 2026-10-19 | ✅ | Super Smash Bros. Melee for Windows as a true Source Port: the game compiled natively from its decompiled C source, no emulation, with unlocked FPS a… |
-| [Mario Kart Wii - Service Pack (mkw-sp)](https://github.com/mkw-sp/mkw-sp) | Wii | порт | 101 | 3.95 | 2025-12-11 | ✅ | Mario Kart Wii - Service Pack |
+| [Metroid Prime](https://github.com/AxioDL/metaforce) | GameCube | ремейк движка | 815 | 4 | 2026-10-19 | — | A native reimplementation of the Metroid Prime engine |
+| [Soulcalibur II](https://github.com/jackpoison-prog/RingOut) | GameCube | рекомпиляция | 167 | 3.95 | 2026-10-15 | ✅ | Native PC port of a GameCube fighting game via static recompilation - PowerPC translated to C, run as native x86-64 on a Dolphin-derived runtime |
+| [Super Smash Bros. Melee (Melee Unlocked)](https://github.com/Hero88go/melee-unlocked) | GameCube | рекомпиляция | 125 | 3.95 | 2026-10-20 | ✅ | Super Smash Bros. Melee for Windows as a true Source Port: the game compiled natively from its decompiled C source, no emulation, with unlocked FPS a… |
+| [Mario Kart Wii - Service Pack (mkw-sp)](https://github.com/mkw-sp/mkw-sp) | Wii | порт | 102 | 3.95 | 2025-12-11 | ✅ | Mario Kart Wii - Service Pack |
 | [Mario Party 4 (Party Board (zeranemesis port))](https://github.com/zeranemesis/Marioparty4) | GameCube | порт | 52 | 3.95 | 2026-10-16 | — | Partyboard is a Windows port of Mario Party 4 that allows online play with synchronized input and automatic updates. |
-| [New Super Mario Bros. Wii (NSMB Wii Multiplayer Decompilation)](https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation) | Wii | рекомпиляция | 38 | 3.95 | 2026-10-14 | ✅ | New Super Mario Bros. Wii running natively on Android and Windows: a static recompilation built on WiiCompiled. Bring your own game. |
-| [NBA Street V3](https://github.com/recomp-code/street-recomp-v3) | GameCube | рекомпиляция | 20 | 3.95 | 2026-10-18 | ✅ | Static recompilation of NBA Street V3 for PC. |
+| [New Super Mario Bros. Wii (NSMB Wii Multiplayer Decompilation)](https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation) | Wii | рекомпиляция | 48 | 3.95 | 2026-10-20 | ✅ | New Super Mario Bros. Wii running natively on Android and Windows: a static recompilation built on WiiCompiled. Bring your own game. |
+| [Skies of Arcadia Legends](https://github.com/ogdanimal/SkiesOfArcadiaLegends-Recomp) | GameCube | рекомпиляция | 45 | 3.95 | 2026-10-20 | — | Native port of Skies of Arcadia Legends (GameCube) via static recompilation. Bring your own disc. |
+| [NBA Street V3](https://github.com/recomp-code/street-recomp-v3) | GameCube | рекомпиляция | 20 | 3.95 | 2026-10-20 | ✅ | Static recompilation of NBA Street V3 for PC. |
 | [Wii Party](https://github.com/arelkair/wiiparty-recomp) | Wii | рекомпиляция | 17 | 3.95 | 2026-10-14 | ✅ | Static recompilation of Wii Party for native PC. Requires your own legally obtained copy of the game; no copyrighted assets included. |
 | [Muscle March](https://github.com/tmcleroy/muscle-march-recomp) | Wii | рекомпиляция | 13 | 3.95 | 2026-10-15 | — | Unofficial native PC port of Muscle March (WiiWare) via static recompilation: macOS, Linux, Steam Deck, Windows. Requires your own copy of the game.… |
-| [Resident Evil 4](https://github.com/adonis-singh/re4) | GameCube | декомпиляция | 351 | 3.9 | 2026-10-02 | — | Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++ |
-| [Super Mario Sunshine](https://github.com/chrissotraidis/sunpad) | GameCube | рекомпиляция | 188 | 3.9 | 2026-10-19 | ✅ | Super Mario Sunshine on iPhone, iPad, Apple Silicon Mac, and tVOS through static recompilation and Metal. |
-| [Super Mario Galaxy ( PS4 recomp)](https://github.com/chrissotraidis/galaxypad) | Wii | рекомпиляция | 96 | 3.9 | 2026-10-19 | ✅ | Super Mario Galaxy: native for iOS, iPadOS, and MacOS. |
-| [Animal Crossing ( animalcrossing-visionos)](https://github.com/chrissotraidis/bellpad) | GameCube | порт | 37 | 3.9 | 2026-10-19 | ✅ | Animal Crossing for MacOS, iOS, and iPadOS. |
-| [Animal Crossing (ACGC-Android-Port)](https://github.com/zwaetschge/ACGC-Android-Port) | GameCube | порт | 30 | 3.9 | 2026-10-06 | ✅ | Android port of the Animal Crossing (GameCube) PC port, built with Z.ai, OpenAI Codex and Claude – bring your own disc; HD textures and translations… |
-| [Super Mario Galaxy 1](https://github.com/SMGCommunity/Petari) | Wii | декомпиляция | 1.3k | 3.85 | 2026-10-19 | — | Super Mario Galaxy 1 decompilation. |
-| [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) | GameCube | декомпиляция | 1.1k | 3.85 | 2026-10-18 | — | Decompilation of The Legend of Zelda: The Wind Waker |
-| [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) | GameCube | декомпиляция | 228 | 3.75 | 2026-10-10 | ✅ | WIP 1:1 Decompilation of multiple versions of NFS:MW |
-| [Super Mario Galaxy (GalaxyQuest (Meta Quest 3 VR))](https://github.com/bigmak94/GalaxyQuest) | Wii | декомпиляция | 103 | 3.7 | 2026-10-03 | ✅ | GalaxyQuest: Super Mario Galaxy in VR on Meta Quest 3, a native port built on the Petari decompilation. Bring your own game files. 100% made by AI (C… |
-| [Mario Party 6](https://github.com/iirg4x/mp6-native-port) | GameCube | порт | 11 | 3.7 | 2026-09-12 | ✅ | Native PC (Windows) and Android port of Mario Party 6, built on the byte-accurate GC decompilation. Game files are NOT included — supply your own dis… |
+| [Resident Evil 4](https://github.com/adonis-singh/re4) | GameCube | декомпиляция | 353 | 3.9 | 2026-10-02 | — | Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++ |
+| [Super Mario Sunshine](https://github.com/chrissotraidis/sunpad) | GameCube | рекомпиляция | 189 | 3.9 | 2026-10-19 | ✅ | Super Mario Sunshine on iPhone, iPad, Apple Silicon Mac, and tVOS through static recompilation and Metal. |
+| [Super Mario Galaxy ( PS4 recomp)](https://github.com/chrissotraidis/galaxypad) | Wii | рекомпиляция | 97 | 3.9 | 2026-10-19 | ✅ | Super Mario Galaxy: native for iOS, iPadOS, and MacOS. |
+| [Animal Crossing ( animalcrossing-visionos)](https://github.com/chrissotraidis/bellpad) | GameCube | порт | 38 | 3.9 | 2026-10-19 | ✅ | Animal Crossing for MacOS, iOS, and iPadOS. |
+| [Animal Crossing (ACGC-Android-Port)](https://github.com/zwaetschge/ACGC-Android-Port) | GameCube | порт | 32 | 3.9 | 2026-10-06 | ✅ | Android port of the Animal Crossing (GameCube) PC port, built with Z.ai, OpenAI Codex and Claude – bring your own disc; HD textures and translations… |
+| [Super Mario Galaxy 1](https://github.com/SMGCommunity/Petari) | Wii | декомпиляция | 1.3k | 3.85 | 2026-10-20 | — | Super Mario Galaxy 1 decompilation. |
+| [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) | GameCube | декомпиляция | 1.1k | 3.85 | 2026-10-20 | — | Decompilation of The Legend of Zelda: The Wind Waker |
+| [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) | GameCube | декомпиляция | 231 | 3.75 | 2026-10-10 | ✅ | WIP 1:1 Decompilation of multiple versions of NFS:MW |
+| [Super Mario Galaxy (GalaxyQuest (Meta Quest 3 VR))](https://github.com/bigmak94/GalaxyQuest) | Wii | декомпиляция | 106 | 3.7 | 2026-10-19 | ✅ | GalaxyQuest: Super Mario Galaxy in VR on Meta Quest 3, a native port built on the Petari decompilation. Bring your own game files. 100% made by AI (C… |
+| [Super Paper Mario](https://github.com/josiahg2502-glitch/NewSuperPaperBros) | Wii | рекомпиляция | 41 | 3.7 | 2026-10-20 | ✅ | Native PC port of Super Paper Mario (Wii) by static recompilation: 4K, cinematic widescreen, 120 fps, HQ music, HD textures, gamepad and pointer supp… |
+| [Scooby-Doo! Night of 100 Frights](https://github.com/josiahg2502-glitch/Scooby-Doo-Refrightened) | GameCube | рекомпиляция | 18 | 3.7 | 2026-10-18 | ✅ | Statically recompiled PC port of Scooby-Doo! Night of 100 Frights (GameCube): true widescreen, up to 4K, HDR, gamepads, launcher. |
+| [Sonic Adventure 2: Battle (sa2-nx)](https://github.com/ChanseyIsTheBest/sa2-nx) | GameCube | рекомпиляция | 11 | 3.7 | 2026-10-19 | ✅ | Sonic Adventure 2 (Xbox Live Arcade) running natively on Nintendo Switch: static recompilation with ReXGlue and a native Vulkan renderer, 60 FPS at s… |
 | [Super Smash Bros. Melee](https://github.com/doldecomp/melee) | GameCube | декомпиляция | 2.4k | 3.65 | 2026-10-16 | — | A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks. |
 | [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) | GameCube | декомпиляция | 2.1k | 3.65 | 2026-06-23 | — | Decompilation of The Legend of Zelda: Twilight Princess |
 | [Animal Crossing](https://github.com/ACreTeam/ac-decomp) | GameCube | декомпиляция | 1.4k | 3.65 | 2026-07-18 | — | Decompilation of Animal Crossing for the Nintendo GameCube. |
 | [Kirby's Return to Dream Land (Kirby Wii Recomp)](https://github.com/ExpansionPak/ModernGekko) | Wii | рекомпиляция | 172 | 3.55 | 2026-09-17 | ✅ | Runtime for recompilations of GameCube games |
-| [Super Mario Sunshine](https://github.com/chasem-dev/sms-pc-port) | GameCube | порт | 155 | 3.55 | 2026-10-19 | ✅ | Super Mario Sunshine Native PC Port |
+| [Super Mario Sunshine](https://github.com/chasem-dev/sms-pc-port) | GameCube | порт | 161 | 3.55 | 2026-10-20 | ✅ | Super Mario Sunshine Native PC Port |
+| [Runescape (2003)](https://github.com/2003scape/rsc-c) | Wii | ремейк движка | 136 | 3.55 | 2026-10-19 | ✅ | 🍫 runescape classic client ported to C |
 | [Mario Kart Wii (mkwii-ps5)](https://github.com/Phi1ow/mkwii-ps5) | Wii | рекомпиляция | 57 | 3.55 | 2026-09-22 | — | Mario Kart Wii PAL on PS5 ; native static recompilation with WiiCompiled, AGC rendering and DualSense controls. |
 | [Mario Party 4](https://github.com/mariopartyrd/partyboard) | GameCube | порт | 49 | 3.55 | 2026-09-29 | — | A WIP PC port of Mario Party 4. |
-| [Animal Crossing](https://github.com/TechProGabe/OpenCrossing-Xbox) | GameCube | декомпиляция | 30 | 3.45 | 2026-10-05 | ✅ | Native original Xbox port of Animal Crossing (GameCube decomp) |
-| [The Legend of Zelda: The Wind Waker](https://github.com/elliotttate/Wind-Waker-Recomp) | GameCube | рекомпиляция | 553 | 3.4 | 2026-10-04 | — | Personal source fork of BlueWake for The Wind Waker on iPhone and iPad |
-| [Runescape (2003)](https://github.com/2003scape/rsc-c) | Wii | ремейк движка | 136 | 3.35 | 2026-07-16 | ✅ | 🍫 runescape classic client ported to C |
-| [Super Mario Strikers (BallPad)](https://github.com/chrissotraidis/ballpad) | GameCube | порт | 25 | 3.35 | 2026-10-04 | ✅ | Super Mario Strikers native for iOS and iPadOS. |
+| [Mario Party 6](https://github.com/iirg4x/mp6-native-port) | GameCube | порт | 12 | 3.5 | 2026-09-12 | ✅ | Native PC (Windows) and Android port of Mario Party 6, built on the byte-accurate GC decompilation. Game files are NOT included — supply your own dis… |
+| [Animal Crossing](https://github.com/TechProGabe/OpenCrossing-Xbox) | GameCube | декомпиляция | 31 | 3.45 | 2026-10-05 | ✅ | Native original Xbox port of Animal Crossing (GameCube decomp) |
+| [The Legend of Zelda: The Wind Waker](https://github.com/elliotttate/Wind-Waker-Recomp) | GameCube | рекомпиляция | 556 | 3.4 | 2026-10-04 | — | Personal source fork of BlueWake for The Wind Waker on iPhone and iPad |
+| [Super Mario Strikers (BallPad)](https://github.com/chrissotraidis/ballpad) | GameCube | порт | 25 | 3.35 | 2026-10-19 | ✅ | Super Mario Strikers native for iOS and iPadOS. |
+| [Scooby-Doo! Unmasked](https://github.com/josiahg2502-glitch/Scooby-Doo-ReMasked) | GameCube | рекомпиляция | 12 | 3.35 | 2026-10-18 | ✅ | Statically recompiled PC port of Scooby-Doo! Unmasked (GameCube): 4K, true widescreen, 120 fps, HDR. Bring your own disc. |
 | [The Legend of Zelda: Skyward Sword (Skybreak)](https://github.com/Kyra422/skybreak) | Wii | порт | 6 | 3.35 | 2026-10-05 | — | An experimental native PC port project for The Legend of Zelda: Skyward Sword (Wii). No game assets included; your own game copy is required. |
 | [The Legend of Zelda: Twilight Princess (dusklight (HayatoG Switch fork))](https://github.com/HayatoG/dusklight) | GameCube | декомпиляция | 67 | 3.25 | 2026-07-03 | ✅ | Dusklight Switch port — Twilight Princess decomp on Tegra X1 via NVK/Vulkan. Private fork tracking work-in-progress. |
-| [Super Mario Strikers (Quest 3 Strikers)](https://github.com/LanceSweatpants/Strikers-Quest-MR) | GameCube | декомпиляция | 28 | 3.25 | 2026-10-18 | ✅ | Super Mario Strikers running natively on Meta Quest 3 as mixed reality: a hologram pitch on your table, big screen, stadium VR, and online 1v1 with r… |
-| [The Legend of Zelda: The Wind Waker (WindowWaker)](https://github.com/MaskeZenY/WindowWaker) | GameCube | порт | 27 | 3.15 | 2026-10-10 | ✅ | Native Window port of The Legend of Zelda: The Wind Waker (GameCube). Bring your own game files. |
-| [Pikmin 2](https://github.com/projectPiki/pikmin2) | GameCube | декомпиляция | 383 | 3.05 | 2026-10-19 | — | A decompilation of Pikmin 2 (USA) brought to you by fans of the series. |
-| [Metroid Prime 1](https://github.com/PrimeDecomp/prime) | GameCube | декомпиляция | 378 | 3.05 | 2026-10-18 | — | A matching decompilation of Metroid Prime |
-| [Super Mario Sunshine](https://github.com/doldecomp/sms) | GameCube | декомпиляция | 361 | 3.05 | 2026-10-19 | — | A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks. |
-| [Pikmin 1](https://github.com/projectPiki/pikmin) | GameCube | декомпиляция | 324 | 3.05 | 2026-10-06 | — | A decompilation of Pikmin brought to you by fans of the series. |
-| [Wii Menu](https://github.com/koopthekoopa/wii-ipl) | Wii | декомпиляция | 219 | 3.05 | 2026-10-15 | — | Wii Menu Decompilation brought to you by fans. |
-| [The Legend of Zelda: Skyward Sword](https://github.com/zeldaret/ss) | Wii | декомпиляция | 211 | 3.05 | 2026-10-19 | — | Decompilation of The Legend of Zelda: Skyward Sword |
-| [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) | GameCube | декомпиляция | 201 | 3.05 | 2026-10-05 | — | Decompilation of Mario Kart Double Dash!! |
+| [Super Mario Strikers (Quest 3 Strikers)](https://github.com/LanceSweatpants/Strikers-Quest-MR) | GameCube | декомпиляция | 29 | 3.25 | 2026-10-18 | ✅ | Super Mario Strikers running natively on Meta Quest 3 as mixed reality: a hologram pitch on your table, big screen, stadium VR, and online 1v1 with r… |
+| [The Legend of Zelda: The Wind Waker (WindowWaker)](https://github.com/MaskeZenY/WindowWaker) | GameCube | порт | 28 | 3.15 | 2026-10-10 | ✅ | Native Window port of The Legend of Zelda: The Wind Waker (GameCube). Bring your own game files. |
+| [Pikmin 2](https://github.com/projectPiki/pikmin2) | GameCube | декомпиляция | 385 | 3.05 | 2026-10-20 | — | A decompilation of Pikmin 2 (USA) brought to you by fans of the series. |
+| [Metroid Prime 1](https://github.com/PrimeDecomp/prime) | GameCube | декомпиляция | 382 | 3.05 | 2026-10-20 | — | A matching decompilation of Metroid Prime |
+| [Super Mario Sunshine](https://github.com/doldecomp/sms) | GameCube | декомпиляция | 363 | 3.05 | 2026-10-20 | — | A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks. |
+| [Pikmin 1](https://github.com/projectPiki/pikmin) | GameCube | декомпиляция | 326 | 3.05 | 2026-10-06 | — | A decompilation of Pikmin brought to you by fans of the series. |
+| [Wii Menu](https://github.com/koopthekoopa/wii-ipl) | Wii | декомпиляция | 220 | 3.05 | 2026-10-15 | — | Wii Menu Decompilation brought to you by fans. |
+| [The Legend of Zelda: Skyward Sword](https://github.com/zeldaret/ss) | Wii | декомпиляция | 212 | 3.05 | 2026-10-20 | — | Decompilation of The Legend of Zelda: Skyward Sword |
+| [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) | GameCube | декомпиляция | 202 | 3.05 | 2026-10-05 | — | Decompilation of Mario Kart Double Dash!! |
 | [Super Smash Bros. Melee (OpenSmash (Melee engine: opensmash-melee-pc))](https://github.com/turtlesoupy/opensmash) | GameCube | порт | 159 | 2.95 | 2026-10-11 | — |  |
-| [Mario Kart Wii](https://github.com/snailspeed3/mkw) | Wii | декомпиляция | 473 | 2.65 | 2025-09-16 | — | Decompilation of Mario Kart Wii |
-| [The Legend of Zelda: Twilight Princess](https://github.com/BgbrhrWatchinOVO/dusklight-ps4) | GameCube | декомпиляция | 12 | 2.65 | 2026-10-11 | ✅ | Native PS4 port of Dusklight (decomp PC port) – no emulator. Runs on GoldHEN at up to 60 FPS with PlayStation buttons, Wii U style HUD and optional H… |
+| [Mario Kart Wii](https://github.com/snailspeed3/mkw) | Wii | декомпиляция | 475 | 2.65 | 2025-09-16 | — | Decompilation of Mario Kart Wii |
+| [The Legend of Zelda: Twilight Princess](https://github.com/BgbrhrWatchinOVO/dusklight-ps4) | GameCube | декомпиляция | 14 | 2.65 | 2026-10-11 | ✅ | Native PS4 port of Dusklight (decomp PC port) – no emulator. Runs on GoldHEN at up to 60 FPS with PlayStation buttons, Wii U style HUD and optional H… |
 | [Super Mario Sunshine](https://github.com/griches/PS5_Sunshine) | GameCube | декомпиляция | 10 | 2.65 | 2026-10-14 | ✅ | Super Mario Sunshine on the PS5: a homebrew port of chasem-dev's sms-pc-port, as a builder kit (4K, 60 fps, your own disc image) |
 | [SpongeBob SquarePants: Battle for Bikini Bottom](https://github.com/bfbbdecomp/bfbb) | GameCube | декомпиляция | 192 | 2.6 | 2026-08-29 | — | Decompilation project for SpongeBob SquarePants: Battle for Bikini Bottom |
 | [Wii Sports](https://github.com/doldecomp/ogws) | Wii | декомпиляция | 177 | 2.6 | 2026-10-15 | — | A work-in-progress matching decompilation of Wii Sports |
 | [New Super Mario Bros. Wii](https://github.com/NSMBW-Community/NSMBW-Decomp) | Wii | декомпиляция | 147 | 2.6 | 2026-09-24 | — | A decompilation of New Super Mario Bros. Wii |
-| [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) | GameCube | декомпиляция | 145 | 2.6 | 2026-09-27 | — | A work-in-progress matching decompilation of Paper Mario: The Thousand Year Door |
+| [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) | GameCube | декомпиляция | 146 | 2.6 | 2026-09-27 | — | A work-in-progress matching decompilation of Paper Mario: The Thousand Year Door |
 | [Rock Band 3](https://github.com/DarkRTA/rb3) | Wii | декомпиляция | 124 | 2.6 | 2026-10-17 | — | A decompilation of Rock Band 3 brought to you by a bunch of clever folks. |
 | [Super Mario Strikers](https://github.com/yannicksuter/smstrikers-decomp) | GameCube | декомпиляция | 105 | 2.6 | 2026-09-17 | — | Decompilation of Super Mario Strikers |
-| [Super Smash Bros. Brawl](https://github.com/doldecomp/brawl) | Wii | декомпиляция | 103 | 2.6 | 2026-10-10 | — | A work-in-progress matching decompilation of Super Smash Bros. Brawl |
-| [Super Paper Mario](https://github.com/SeekyCt/spm-decomp) | Wii | декомпиляция | 102 | 2.6 | 2026-10-04 | — | WIP 1:1 decompilation of Super Paper Mario |
-| [The Legend of Zelda: Ocarina of Time (Wii Virtual Console)](https://github.com/zeldaret/oot-vc) | Wii | декомпиляция | 95 | 2.6 | 2026-09-06 | — | Decompilation of the Wii Virtual Console Emulator for Ocarina of Time (JP) |
-| [Super Mario Galaxy 2](https://github.com/SMGCommunity/Garigari) | Wii | декомпиляция | 81 | 2.6 | 2026-10-17 | — | A decompilation effort for Super Mario Galaxy 2. |
-| [Mario Kart Wii](https://github.com/doldecomp/mkw) | Wii | декомпиляция | 56 | 2.6 | 2026-10-16 | — | A work-in-progress matching decompilation of Mario Kart Wii. |
-| [Kirby's Epic Yarn](https://github.com/Swiftshine/key) | Wii | декомпиляция | 53 | 2.6 | 2026-10-14 | — | Kirby's Epic Yarn decompilation. |
+| [Super Paper Mario](https://github.com/SeekyCt/spm-decomp) | Wii | декомпиляция | 103 | 2.6 | 2026-10-04 | — | WIP 1:1 decompilation of Super Paper Mario |
+| [Super Smash Bros. Brawl](https://github.com/doldecomp/brawl) | Wii | декомпиляция | 103 | 2.6 | 2026-10-20 | — | A work-in-progress matching decompilation of Super Smash Bros. Brawl |
+| [The Legend of Zelda: Ocarina of Time (Wii Virtual Console)](https://github.com/zeldaret/oot-vc) | Wii | декомпиляция | 96 | 2.6 | 2026-09-06 | — | Decompilation of the Wii Virtual Console Emulator for Ocarina of Time (JP) |
+| [Super Mario Galaxy 2](https://github.com/SMGCommunity/Garigari) | Wii | декомпиляция | 82 | 2.6 | 2026-10-19 | — | A decompilation effort for Super Mario Galaxy 2. |
+| [Mario Kart Wii](https://github.com/doldecomp/mkw) | Wii | декомпиляция | 57 | 2.6 | 2026-10-16 | — | A work-in-progress matching decompilation of Mario Kart Wii. |
+| [Kirby's Epic Yarn](https://github.com/Swiftshine/key) | Wii | декомпиляция | 54 | 2.6 | 2026-10-14 | — | Kirby's Epic Yarn decompilation. |
 | [Animal Forest e+](https://github.com/ACreTeam/afe-decomp) | GameCube | декомпиляция | 51 | 2.6 | 2026-09-16 | — | Decompilation of Animal Forest e+ (JP) |
-| [Final Fantasy Crystal Chronicles](https://github.com/zcanann/FFCC-Decomp) | GameCube | декомпиляция | 45 | 2.6 | 2026-10-19 | — | Final Fantasy Crystal Chronicles Decompilation |
+| [Final Fantasy Crystal Chronicles](https://github.com/zcanann/FFCC-Decomp) | GameCube | декомпиляция | 45 | 2.6 | 2026-10-20 | — | Final Fantasy Crystal Chronicles Decompilation |
+| [XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp) | GameCube | декомпиляция | 41 | 2.6 | 2026-09-11 | — | A decompilation of Pokemon XD for the Nintendo GameCube |
 | [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp) | GameCube | декомпиляция | 40 | 2.6 | 2026-08-12 | — | Chibi-Robo: PIA Decompilation |
 | [Mario Party 5](https://github.com/mariopartyrd/marioparty5) | GameCube | декомпиляция | 39 | 2.6 | 2026-10-18 | — |  |
-| [XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp) | GameCube | декомпиляция | 39 | 2.6 | 2026-09-11 | — | A decompilation of Pokemon XD for the Nintendo GameCube |
 | [Resident Evil – Code: Veronica X](https://github.com/fmil95/recvx-gc-decomp) | GameCube | декомпиляция | 37 | 2.6 | 2026-08-05 | — | Decompilation project of Resident Evil - Code: Veronica X (GC) which aims to reconstruct the source code of the game. |
 | [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp) | GameCube | декомпиляция | 37 | 2.6 | 2026-10-08 | — | Decompilation of Ty the Tasmanian Tiger |
 | [Mario Strikers Charged](https://github.com/yannicksuter/mscharged-decomp) | Wii | декомпиляция | 36 | 2.6 | 2026-10-18 | — | Decompilation of Mario Strikers Charged |
@@ -114,27 +119,27 @@
 | [de Blob](https://github.com/AdventureT/OpenToshi) | Wii | декомпиляция | 50 | 2.4 | 2025-12-31 | — | Decompilation of the Toshi engine and Toshi games like de blob. |
 | [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug) | GameCube | декомпиляция | 39 | 2.4 | 2026-02-04 | — |  |
 | [Pokémon Colosseum](https://github.com/dougchansan/pkmn-colosseum) | GameCube | декомпиляция | 29 | 2.4 | 2026-10-18 | — | completely unhinged ai decompilation project for pokemon colosseum. you hate to see it. |
+| [Eternal Darkness: Sanity's Requiem](https://github.com/psdwizzard/Eternal-Darkness---Decompile) | GameCube | декомпиляция | 25 | 2.4 | 2026-10-18 | — | Matching decompilation of Eternal Darkness: Sanity's Requiem (GEDE01) — dtk/objdiff pipeline |
 | [Gauntlet Dark Legacy](https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation) | GameCube | декомпиляция | 25 | 2.4 | 2026-09-25 | — | Decompilation project of Gauntlet: Dark Legacy for the Nintendo Gamecube. |
 | [Pokemon Battle Revolution](https://github.com/pbr-ret/pbr-decomp) | Wii | декомпиляция | 25 | 2.4 | 2026-10-15 | — | A matching decompilation project for Pokémon Battle Revolution. |
-| [Eternal Darkness: Sanity's Requiem](https://github.com/psdwizzard/Eternal-Darkness---Decompile) | GameCube | декомпиляция | 24 | 2.4 | 2026-10-18 | — | Matching decompilation of Eternal Darkness: Sanity's Requiem (GEDE01) — dtk/objdiff pipeline |
 | [Mario Party 6](https://github.com/mariopartyrd/marioparty6) | GameCube | декомпиляция | 23 | 2.4 | 2026-10-14 | — |  |
 | [New Play Control! Pikmin 2](https://github.com/projectPiki/pik2wii) | Wii | декомпиляция | 22 | 2.4 | 2026-10-12 | — | A decompilation of New Play Control! Pikmin 2 (USA) brought to you by fans of the series. |
-| [Metal Gear Solid: The Twin Snakes](https://github.com/alphanu1/msg-twinsnakes-recomp) | GameCube | рекомпиляция | 19 | 2.4 | 2026-09-26 | — |  |
+| [Metal Gear Solid: The Twin Snakes](https://github.com/alphanu1/msg-twinsnakes-recomp) | GameCube | рекомпиляция | 20 | 2.4 | 2026-09-26 | — |  |
 | [Disney Piglet's Big Game](https://github.com/tgsm/pbg) | GameCube | декомпиляция | 17 | 2.4 | 2026-10-07 | — | Decompilation of Piglet's Big Game (GC) |
 | [Pokepark Wii: Pikachu's Adventure](https://github.com/SephDB/pokepark-wii-decomp) | Wii | декомпиляция | 17 | 2.4 | 2026-10-03 | — |  |
 | [The Legend of Zelda: The Wind Waker](https://github.com/sp00nznet/ww) | GameCube | рекомпиляция | 17 | 2.4 | 2026-08-23 | — | A static recompilation of a GameCube game to native PC. |
 | [Tiger Woods PGA Tour 2004](https://github.com/mitsevox/tw2004) | GameCube | декомпиляция | 17 | 2.4 | 2026-10-17 | — | Decompilation and asset research for Tiger Woods PGA Tour 2004 (GameCube, GW4E69) |
 | [Mario Strikers Charged (Strikers-WiiCompiled)](https://github.com/BlackAndBlue95/Strikers-WiiCompiled) | Wii | рекомпиляция | 16 | 2.4 | 2026-10-03 | — | Native PC port of Mario Strikers Charged via static recompilation (fork of WiiCompiled). No game data included. |
 | [Mortal Kombat: Deception](https://github.com/ShulkMaster/mk-deception) | GameCube | декомпиляция | 16 | 2.4 | 2026-10-18 | — | Decomp of Mortal Kombat Deception for the Gamecube |
+| [Sonic Adventure 2: Battle](https://github.com/roeming/SA2B) | GameCube | декомпиляция | 16 | 2.4 | 2026-10-07 | — | A WIP decomp of Sonic Adventure 2: Battle for GameCube |
 | [Wii Play](https://github.com/akiramusic000/Rhae) | Wii | декомпиляция | 16 | 2.4 | 2026-10-03 | — | Decompilation of Wii Play (RHAE01) |
-| [Sonic Adventure 2: Battle](https://github.com/roeming/SA2B) | GameCube | декомпиляция | 15 | 2.4 | 2026-10-07 | — | A WIP decomp of Sonic Adventure 2: Battle for GameCube |
 | [Crash Bandicoot: The Wrath of Cortex](https://github.com/denzi-gh/crashwoc-decomp-gc) | GameCube | декомпиляция | 14 | 2.4 | 2026-10-12 | — | This is a WIP decompilation of Crash Bandicoot: The Wrath of Cortex for GameCube. |
 | [Kirby's Dream Collection - Special Edition](https://github.com/Swiftshine/kdc) | Wii | декомпиляция | 14 | 2.4 | 2026-10-11 | — | Kirby's Dream Collection |
 | [New Play Control! Pikmin](https://github.com/projectPiki/pik1wii) | Wii | декомпиляция | 14 | 2.4 | 2026-09-04 | — | A decompilation of New Play Control! Pikmin 1 (USA) brought to you by fans of the series. |
 | [Super Smash Bros. Brawl (BrawlModules)](https://github.com/Sammi-Husky/BrawlModules) | Wii | ремейк движка | 14 | 2.4 | 2026-09-30 | — | Experimental C++ reimplementation of Super Smash Bros. Brawl module (.rel) files |
 | [Alice in Wonderland](https://github.com/Alice-2010/Decomp) | Wii | декомпиляция | 13 | 2.4 | 2026-09-10 | — | A decompilation of Alice in Wonderland (Wii 2010) by Étranges Libellules |
 | [Crash Tag Team Racing](https://github.com/bluisblu/cttr) | GameCube | декомпиляция | 13 | 2.4 | 2026-10-15 | — | Decompilation of Crash Tag Team Racing (US) for Gamecube |
-| [F-Zero GX (karamzov123)](https://github.com/karamzov123/fzero-gx-decomp) | GameCube | декомпиляция | 12 | 2.4 | 2026-09-09 | — | F-Zero GX NTSC-U matching decompilation (GFZE01) |
+| [F-Zero GX (karamzov123)](https://github.com/karamzov123/fzero-gx-decomp) | GameCube | декомпиляция | 12 | 2.4 | 2026-10-20 | — | F-Zero GX NTSC-U matching decompilation (GFZE01) |
 | [Mario Kart Wii (mkw)](https://github.com/vabold/mkw) | Wii | декомпиляция | 11 | 2.4 | 2026-09-19 | — |  |
 | [Digimon World 4](https://github.com/ivanno4317/dw4-gc) | GameCube | декомпиляция | 10 | 2.4 | 2026-09-16 | — |  |
 | [F-Zero GX (rayanht)](https://github.com/rayanht/fzgx) | GameCube | декомпиляция | 10 | 2.4 | 2026-09-16 | — |  |
@@ -147,8 +152,8 @@
 | [Rhythm Heaven Fever](https://github.com/conhlee/rhf) | Wii | декомпиляция | 29 | 2.2 | 2026-06-09 | — | Rhythm Heaven Fever decompilation |
 | [Star Fox Adventures](https://github.com/RenaKunisaki/sfadebug) | GameCube | декомпиляция | 27 | 2.2 | 2026-04-13 | — | Decompilation of Star Fox Adventures debug version |
 | [Mario Party 8](https://github.com/mariopartyrd/marioparty8) | Wii | декомпиляция | 25 | 2.2 | 2026-05-01 | — |  |
+| [Metal Gear Solid: The Twin Snakes](https://github.com/GirianSeed/mgstts) | GameCube | декомпиляция | 25 | 2.2 | 2026-06-29 | — | Work in progress. |
 | [The SpongeBob SquarePants Movie](https://github.com/bfbbdecomp/tssm) | GameCube | декомпиляция | 25 | 2.2 | 2026-06-15 | — |  |
-| [Metal Gear Solid: The Twin Snakes](https://github.com/GirianSeed/mgstts) | GameCube | декомпиляция | 24 | 2.2 | 2026-06-29 | — | Work in progress. |
 | [Animal Crossing (Animal Crossing PC Port - Deluxe Edition)](https://github.com/imcynic/ACGC-Deluxe-PC-Port) | GameCube | порт | 21 | 2.2 | 2026-03-25 | — | Animal Crossing PC Port - Deluxe Edition |
 | [Lego Star Wars III: The Clone Wars](https://github.com/ThePlayerRolo/LegoCloneWarsWii) | Wii | декомпиляция | 21 | 2.2 | 2025-12-07 | — | A decompilation of Lego Star Wars III: The Clone Wars on Wii brought to you by a bunch of clever folks. |
 | [The Sims 2: Castaway](https://github.com/HaydnTrigg/Castaway) | Wii | декомпиляция | 18 | 2.2 | 2026-01-21 | — | A work-in-progress matching decompilation of The Sims 2: Castaway |
@@ -182,7 +187,7 @@
 | [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl) | GameCube | дизасм | 24 | 2.15 | 2022-11-22 | — | A disassembly/decompilation of Harvest Moon: A Wonderful Life for Nintendo GameCube. |
 | [Super Monkey Ball](https://github.com/camthesaxman/smb-decomp) | GameCube | декомпиляция | 64 | 2 | 2023-01-06 | — |  |
 | [Sonic Adventure DX](https://github.com/doldecomp/sadx) | GameCube | декомпиляция | 49 | 2 | 2024-08-01 | — | Sonic Adventure DX |
-| [Mario Kart Wii (mkw-structures)](https://github.com/SeekyCt/mkw-structures) | Wii | декомпиляция | 46 | 2 | 2024-08-13 | — | Documentation of various parts of Mario Kart Wii |
+| [Mario Kart Wii (mkw-structures)](https://github.com/SeekyCt/mkw-structures) | Wii | декомпиляция | 47 | 2 | 2024-08-13 | — | Documentation of various parts of Mario Kart Wii |
 | [Luigi's Mansion](https://github.com/Sage-of-Mirrors/zmansion) | GameCube | декомпиляция | 36 | 2 | 2023-11-09 | — |  |
 | [Pokémon Colosseum (colosseum-mb)](https://github.com/pret/colosseum-mb) | GameCube | декомпиляция | 34 | 2 | 2024-03-29 | — | Decompilation of the GBA multiboot for Pokémon Colosseum |
 | [Mario Kart Wii (DisMKW)](https://github.com/aplumafreak500/DisMKW) | Wii | дизасм | 20 | 1.95 | 2018-11-26 | — | pret-style disassembly of Mario Kart Wii. WIP |

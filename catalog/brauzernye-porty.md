@@ -1,8 +1,8 @@
-# 🌐 Браузерные порты — полный список (55)
+# 🌐 Браузерные порты — полный список (54)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **19.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **20.10.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -11,7 +11,6 @@
 | Игра | Платформа | Играть | Нужны свои файлы | Мультиплеер |
 |---|---|---|---|---|
 | Zelda II: The Adventure of Link (z2rs) | NES | [▶ открыть](https://z2rs.com/) | да | — |
-| Call of Duty: Black Ops Zombies | PC | [▶ открыть](http://vel.gg/bo1z) | да | — |
 | Call of Duty: Modern Warfare 2 | PC | [▶ открыть](http://ovz-game-production.up.railway.app) | да | — |
 | Command & Conquer: Generals Zero Hour | PC | [▶ открыть](https://generals.wasm.ltd) | да | ✅ |
 | Command & Conquer: Red Alert 2 | PC | [▶ открыть](https://chronodivide.com/) | да | ✅ |
@@ -55,15 +54,14 @@
 
 ⚠️ Сайты сторонние. Никогда не устанавливай лаунчеры и расширения, которые они предлагают.
 
-## Активные проекты (51)
+## Активные проекты (50)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
 | [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 312 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
-| [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 287 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
-| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 162 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
+| [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 288 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
+| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 164 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
 | [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 56 | 4.15 | 2026-10-18 | — | Custom frontend for the Emscripten port of isle-portable |
-| [Call of Duty: Black Ops Zombies](http://vel.gg/bo1z) | PC | — | 3.95 | — | — |  |
 | [Call of Duty: Modern Warfare 2](http://ovz-game-production.up.railway.app) | PC | — | 3.95 | — | — | Browser Modern Warfare 2 reconstruction. The host currently shows a traffic check before loading. |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Red Alert 2](https://chronodivide.com) | PC | — | 3.95 | — | — |  |
@@ -117,7 +115,7 @@
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
-| [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 417 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
+| [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 418 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
 | [Urban Terror (ut.pieter.com (ioUrbanTerror -> WebAssembly))](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) | PC | 152 | 3.55 | 2023-02-03 | ✅ | The officially supported ioquake3 engine by the Frozen Sand Development Team for the game Urban Terror 4.x |
 | [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | PC | 146 | 3.35 | 2019-10-23 | — | A re-upload of mittorn's Emscripten port of Xash3D. |
 | [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 119 | 3.35 | 2021-06-22 | — | Half Life Browser Port |

@@ -1,8 +1,8 @@
-# Мобильные (Android, iOS): декомпиляции, рекомпиляции и порты игр (37)
+# Мобильные (Android, iOS): декомпиляции, рекомпиляции и порты игр (38)
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **19.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **20.10.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -17,7 +17,7 @@
 9. [Doom RPG (Mobile RPG Pack)](https://github.com/andreyvelsk/com.mobilerpgpack.phone) — ремейк движка, ⭐ 17, score 3.5
 10. [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) — декомпиляция, ⭐ 127, score 3.45
 
-## Все активные проекты (29)
+## Все активные проекты (30)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
@@ -32,11 +32,12 @@
 | [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies) | Mobile | рекомпиляция | 26 | 3.5 | 2025-12-04 | ✅ | Decompilation of Samurai Vs Zombies by Glu |
 | [Doom RPG (Mobile RPG Pack)](https://github.com/andreyvelsk/com.mobilerpgpack.phone) | Mobile | ремейк движка | 17 | 3.5 | 2026-06-10 | ✅ | Android port of UZDoom, with second screen support |
 | [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) | Mobile | декомпиляция | 127 | 3.45 | 2026-10-09 | ✅ | Cut the Rope DX, a fan-made enhancement of the PC version of Cut the Rope. Now available on web! |
-| [Plants vs. Zombies 2 (pvzge_web)](https://github.com/Gzh0821/pvzge_web) | Mobile | порт | 235 | 3.4 | 2026-09-29 | — | PvZ2 Gardendless \| A rewritten Plants vs Zombies 2 PC port |
+| [Plants vs. Zombies 2 (pvzge_web)](https://github.com/Gzh0821/pvzge_web) | Mobile | порт | 238 | 3.4 | 2026-09-29 | — | PvZ2 Gardendless \| A rewritten Plants vs Zombies 2 PC port |
 | [Rockman EXE Phantom of Network (PoN PC)](https://github.com/StraDaMa/PoN_PC) | Mobile | порт | 85 | 3.35 | 2026-02-17 | ✅ | PoN PC is a native Windows PC port of the previously mobile-exclusive game Rockman EXE Phantom of Network. |
 | [Backstab HD (BackStabRecomp (AndroidRecomp))](https://github.com/jessicanataliagta/BackStabRecomp) | Mobile | рекомпиляция | 12 | 3.35 | 2026-07-31 | ✅ | A Windows x64 port of the Android ARMv7 version of BackStab HD, powered by AndroidRecomp. |
 | [Flappy Bird (reFlappy)](https://github.com/THEN00P/reFlappy) | Mobile | рекомпиляция | 18 | 2.95 | 2025-09-04 | ✅ | Deobfuscation and recompilation project of the original Flappy Bird game. |
-| [Geometry Dash](https://github.com/aloaf812/GD) | Mobile | декомпиляция | 36 | 2.85 | 2026-10-14 | — | A decompilation of Geometry Dash version 1.710 |
+| [Ultimate MK3 iOS](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Mobile | рекомпиляция | 43 | 2.85 | 2026-10-18 | — | Ultimate Mortal Kombat 3 (iOS, EA Mobile 2011), fully decompiled: all 2,572 game functions are readable C, checked against a static ARM-to-C recompil… |
+| [Geometry Dash](https://github.com/aloaf812/GD) | Mobile | декомпиляция | 36 | 2.85 | 2026-10-20 | — | A decompilation of Geometry Dash version 1.710 |
 | [Sonic the Hedgehog (2013) (RSDKv4-Script-Decompilation)](https://github.com/RSDKModding/RSDKv4-Script-Decompilation) | Mobile | декомпиляция | 140 | 2.6 | 2026-09-06 | — |  |
 | [Doom II RPG (DoomIIRPG-RE)](https://github.com/Erick194/DoomIIRPG-RE) | Mobile | декомпиляция | 99 | 2.45 | 2025-07-09 | ✅ | Doom II RPG Reverse Engineering By [GEC] |
 | [Wolfenstein RPG (WolfensteinRPG-RE)](https://github.com/Erick194/WolfensteinRPG-RE) | Mobile | декомпиляция | 57 | 2.45 | 2025-02-24 | ✅ | Wolfenstein RPG Reverse Engineering By [GEC] |
@@ -60,7 +61,7 @@
 | [OpenVIII](https://github.com/MaKiPL/OpenVIII-monogame) | Mobile | ремейк движка | 673 | 2.6 | 2024-10-15 | — | Open source Final Fantasy VIII engine implementation in C# working on Windows and Linux (Android and iOS planned too!) [Monogame] |
 | [Sonic Runners](https://github.com/itsmattkc/RunnersDecomp) | Mobile | декомпиляция | 244 | 2.45 | 2023-09-06 | — |  |
 | [Doom RPG (DoomRPG-RE)](https://github.com/Erick194/DoomRPG-RE) | Mobile | декомпиляция | 161 | 2.25 | 2024-04-23 | ✅ | Doom RPG Reverse Engineering By [GEC] |
-| [Angry Birds](https://github.com/jooapa/Angry_Birds_Decompilation) | Mobile | декомпиляция | 52 | 2.25 | 2024-07-05 | ✅ | decomp instructions/script for all 6 Angry Birds Games' |
+| [Angry Birds](https://github.com/jooapa/Angry_Birds_Decompilation) | Mobile | декомпиляция | 53 | 2.25 | 2024-07-05 | ✅ | decomp instructions/script for all 6 Angry Birds Games' |
 | [Dragon Ball Legends](https://github.com/GodkuHacking/Dragon-Ball-Legends) | Mobile | декомпиляция | 16 | 2.05 | 2024-05-09 | ✅ | a apk decompilation of Dragon Ball legends with tweaks and tutorials on how to compile and more. |
 | [Bounce Tales](https://github.com/HelloOO7/BounceTales) | Mobile | декомпиляция | 53 | 2 | 2023-02-07 | — | Decompilation of Rovio's Bounce Tales (2008) video game for Nokia mobile devices. |
 | [Sonic the Hedgehog (J2ME)](https://github.com/Iso-Kilo/Sonic-1-J2ME-Decompilation) | Mobile | декомпиляция | 36 | 1.8 | 2021-02-19 | — | Decompile of the 2005 mobile port of Sonic 1. |
