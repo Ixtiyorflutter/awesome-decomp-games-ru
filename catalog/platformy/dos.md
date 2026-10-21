@@ -2,7 +2,7 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **20.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **21.10.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -10,12 +10,12 @@
 2. [vkQuake](https://github.com/Novum/vkQuake) — порт, ⭐ 2.3k, score 4.55
 3. [Star Wars: Dark Forces](https://github.com/TheForceEngine/TheForceEngine) — порт, ⭐ 1.2k, score 4.55
 4. [ironwail](https://github.com/andrei-drexler/ironwail) — ремейк движка, ⭐ 1.1k, score 4.55
-5. [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) — порт, ⭐ 962, score 4.35
+5. [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) — порт, ⭐ 964, score 4.35
 6. [Shockolate](https://github.com/Interrupt/systemshock) — ремейк движка, ⭐ 908, score 4.35
 7. [Blood](https://github.com/NBlood/NBlood) — порт, ⭐ 815, score 4.35
 8. [DoomRetro](https://github.com/bradharding/doomretro) — порт, ⭐ 779, score 4.35
 9. [Doom](https://github.com/dsda-org/dsda-doom) — порт, ⭐ 513, score 4.35
-10. [Doom](https://github.com/fabiangreffrath/woof) — порт, ⭐ 334, score 4.35
+10. [Doom](https://github.com/fabiangreffrath/woof) — порт, ⭐ 333, score 4.35
 
 ## Все активные проекты (95)
 
@@ -25,19 +25,19 @@
 | [vkQuake](https://github.com/Novum/vkQuake) | DOS | порт | 2.3k | 4.55 | 2026-10-20 | ✅ | Vulkan Quake port based on QuakeSpasm |
 | [Star Wars: Dark Forces](https://github.com/TheForceEngine/TheForceEngine) | DOS | порт | 1.2k | 4.55 | 2026-10-06 | ✅ | Modern "Jedi Engine" replacement supporting Dark Forces, mods, and in the future Outlaws. |
 | [ironwail](https://github.com/andrei-drexler/ironwail) | DOS | ремейк движка | 1.1k | 4.55 | 2026-09-09 | ✅ | High-performance QuakeSpasm fork |
-| [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) | DOS | порт | 962 | 4.35 | 2026-10-12 | ✅ | Crispy Doom is a limit-removing enhanced-resolution Doom source port based on Chocolate Doom. |
+| [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) | DOS | порт | 964 | 4.35 | 2026-10-12 | ✅ | Crispy Doom is a limit-removing enhanced-resolution Doom source port based on Chocolate Doom. |
 | [Shockolate](https://github.com/Interrupt/systemshock) | DOS | ремейк движка | 908 | 4.35 | 2026-10-18 | ✅ | Shockolate - A minimalist and cross platform System Shock source port. |
 | [Blood](https://github.com/NBlood/NBlood) | DOS | порт | 815 | 4.35 | 2026-09-14 | ✅ | Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhumed) |
-| [DoomRetro](https://github.com/bradharding/doomretro) | DOS | порт | 779 | 4.35 | 2026-10-20 | ✅ | The classic, refined DOOM source port. For Windows PC. |
+| [DoomRetro](https://github.com/bradharding/doomretro) | DOS | порт | 779 | 4.35 | 2026-10-21 | ✅ | The classic, refined DOOM source port. For Windows PC. |
 | [Doom](https://github.com/dsda-org/dsda-doom) | DOS | порт | 513 | 4.35 | 2026-10-15 | ✅ | This is a successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life. |
-| [Doom](https://github.com/fabiangreffrath/woof) | DOS | порт | 334 | 4.35 | 2026-10-19 | ✅ | Woof! is a continuation of the Boom/MBF bloodline of Doom source ports |
+| [Doom](https://github.com/fabiangreffrath/woof) | DOS | порт | 333 | 4.35 | 2026-10-19 | ✅ | Woof! is a continuation of the Boom/MBF bloodline of Doom source ports |
 | [Odamex](https://github.com/odamex/odamex) | DOS | порт | 305 | 4.35 | 2026-10-14 | ✅ | Odamex - Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements. |
-| [The Eternity Engine](https://github.com/team-eternity/eternity) | DOS | порт | 273 | 4.35 | 2026-10-17 | ✅ | The Eternity Engine |
+| [The Eternity Engine](https://github.com/team-eternity/eternity) | DOS | порт | 274 | 4.35 | 2026-10-17 | ✅ | The Eternity Engine |
 | [Chocolate Quake](https://github.com/Henrique194/chocolate-quake) | DOS | порт | 227 | 4.35 | 2026-09-07 | ✅ | A purist Quake source port that restores the original look and feel of v1.09 and earlier. |
 | [Underworld Revisited](https://github.com/PQMarine/UnderworldRevisited) | DOS | ремейк движка | 17 | 4.2 | 2026-10-19 | ✅ | An open-source reimplementation of Ultima Underworld: The Stygian Abyss (1992) in Unity, faithful to the original's rules. Fully playable. Needs the… |
-| [Raze](https://github.com/ZDoom/Raze) | DOS | порт | 890 | 4.15 | 2025-11-19 | ✅ | Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed. |
+| [Raze](https://github.com/ZDoom/Raze) | DOS | порт | 891 | 4.15 | 2025-11-19 | ✅ | Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed. |
 | [BStone](https://github.com/bibendovsky/bstone) | DOS | ремейк движка | 372 | 4.15 | 2026-05-27 | ✅ | Unofficial source port for Blake Stone series |
-| [OpenTIE](https://github.com/elyosh/OpenTIE) | DOS | рекомпиляция | 337 | 4.15 | 2026-10-04 | ✅ | Open-source recomp of TIE Fighter. |
+| [OpenTIE](https://github.com/elyosh/OpenTIE) | DOS | рекомпиляция | 339 | 4.15 | 2026-10-04 | ✅ | Open-source recomp of TIE Fighter. |
 | [lba2remake](https://github.com/LBALab/lba2remake) | DOS | браузер | 288 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
 | [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) | DOS | порт | 194 | 4.15 | 2026-10-18 | — | CatacombGL is a source port with OpenGL graphics for Catacomb 3D (1991), The Catacomb Abyss (1992), The Catacomb Armageddon (1992) and The Catacomb A… |
 | [remc2](https://github.com/turican0/remc2) | DOS | ремейк движка | 153 | 4.15 | 2026-10-16 | ✅ | Recode Binary code of game Magic Carpet2 to C/C++ language(remake MC2 for any platform) |
@@ -47,10 +47,11 @@
 | [OpenCrystalCaves](https://github.com/OpenCrystalCaves/OpenCrystalCaves) | DOS | ремейк движка | 93 | 4.15 | 2026-10-18 | ✅ | OCC is an unofficial open source engine reimplementation of the game trilogy Crystal Caves |
 | [dxx-redux](https://github.com/dxx-redux/dxx-redux) | DOS | порт | 77 | 4.15 | 2026-09-15 | ✅ | Descent 1&2 source port based on DXX-Retro |
 | [Doom (QuestZDoom)](https://github.com/Team-Beef-Studios/QuestZDoom) | DOS | порт | 72 | 4.15 | 2026-08-03 | ✅ | Quest VR Port of the popular LZDoom/GZDoom Engine with full 6DoF |
-| [Underworld Exhumed](https://github.com/abedegno/underworld-exhumed) | DOS | рекомпиляция | 66 | 4.15 | 2026-10-15 | ✅ | Underworld Exhumed: Ultima Underworld I and II as byte-matching source code and native ports for macOS, Windows and Linux |
+| [Underworld Exhumed](https://github.com/abedegno/underworld-exhumed) | DOS | рекомпиляция | 67 | 4.15 | 2026-10-15 | ✅ | Underworld Exhumed: Ultima Underworld I and II as byte-matching source code and native ports for macOS, Windows and Linux |
 | [SDLPoP](https://github.com/NagyD/SDLPoP) | DOS | ремейк движка | 1.3k | 4 | 2025-12-24 | — | An open-source port of Prince of Persia, based on the disassembly of the DOS version. |
 | [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) | DOS | порт | 641 | 4 | 2026-10-11 | — | Descent-Rebirth and Descent II-Rebirth |
-| [SimCity 2000 (sc2kfix)](https://github.com/sc2kfix/sc2kfix) | DOS | декомпиляция | 221 | 4 | 2026-10-16 | ✅ | Bugfix and modding plugin for SimCity 2000 Special Edition (1996) |
+| [Supaplex](https://github.com/sergiou87/open-supaplex) | DOS | декомпиляция | 309 | 4 | 2026-10-20 | ✅ | Reverse engineering Supaplex |
+| [SimCity 2000 (sc2kfix)](https://github.com/sc2kfix/sc2kfix) | DOS | декомпиляция | 222 | 4 | 2026-10-16 | ✅ | Bugfix and modding plugin for SimCity 2000 Special Edition (1996) |
 | [Dune II](https://github.com/gameflorist/dunedynasty) | DOS | порт | 162 | 3.95 | 2026-01-02 | ✅ | Dune Dynasty is a remaster / enhancement of the classic real-time strategy game Dune II by Westwood Studios. It builds upon the original reverse-engi… |
 | [Wolfenstein 3D (ReflectionHLE (Reflection Keen))](https://github.com/ReflectionHLE/ReflectionHLE) | DOS | порт | 140 | 3.95 | 2026-07-17 | ✅ | Ports of Keen Dreams, the 3D Catacomb games and Wolfenstein 3D and derived games, and BioMenace (DOS) |
 | [Roller](https://github.com/FatalDecomp/ROLLER) | DOS | рекомпиляция | 96 | 3.95 | 2026-10-19 | — | Reverse engineering and partially re-writing the 1995 game Whiplash/Fatal Racing |
@@ -58,19 +59,18 @@
 | [Taradino](https://github.com/fabiangreffrath/taradino) | DOS | порт | 59 | 3.95 | 2026-03-20 | ✅ | SDL2 port of Rise of the Triad |
 | [Barrett](https://github.com/lunarmeadow/barrett) | DOS | порт | 34 | 3.95 | 2026-06-07 | ✅ | Advanced and featureful Rise of the Triad source port for modern systems |
 | [wc2-re](https://github.com/neuromancer/wc2-re) | DOS | рекомпиляция | 28 | 3.95 | 2026-09-29 | ✅ | Wing Commander 2 source reconstruction and SDL2 port |
-| [Railroad Tycoon](https://github.com/bluddy/rails) | DOS | ремейк движка | 22 | 3.95 | 2026-10-11 | ✅ | Remake of Railroad Tycoon in OCaml |
+| [Railroad Tycoon](https://github.com/bluddy/rails) | DOS | ремейк движка | 24 | 3.95 | 2026-10-11 | ✅ | Remake of Railroad Tycoon in OCaml |
+| [Crusader: No Remorse (Crusader: No Remorse - SDL port)](https://github.com/sebsebseb1982/crusader-no-remorse-decomp) | DOS | порт | 12 | 3.95 | 2026-10-19 | ✅ |  |
 | [Descent (D1X 3DS)](https://github.com/iNdioNicarao/dxx-3ds) | DOS | порт | 11 | 3.95 | 2026-09-22 | ✅ | Nintendo 3DS (New 3DS) port of Descent I with hardware picaGL rendering and stereoscopic 3D. |
-| [Crusader: No Remorse (Crusader: No Remorse - SDL port)](https://github.com/sebsebseb1982/crusader-no-remorse-decomp) | DOS | порт | 10 | 3.95 | 2026-10-19 | ✅ |  |
-| [Bak-Again](https://github.com/stellargames/bakagain) | DOS | ремейк движка | 2 | 3.95 | 2026-10-19 | — | A modern, moddable remake of the 1993 role-playing game Betrayal at Krondor, built in Unity. It runs the original game's story, world, rules and art… |
+| [Bak-Again](https://github.com/stellargames/bakagain) | DOS | ремейк движка | 2 | 3.95 | 2026-10-21 | — | A modern, moddable remake of the 1993 role-playing game Betrayal at Krondor, built in Unity. It runs the original game's story, world, rules and art… |
 | [F-15 II](https://github.com/neuviemeporte/f15se2-re) | DOS | рекомпиляция | 145 | 3.9 | 2026-09-06 | ✅ | Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS |
 | [Raptor: Call of the Shadows (skynettx raptor)](https://github.com/skynettx/raptor) | DOS | порт | 133 | 3.9 | 2026-09-28 | ✅ | Reversed-engineered source port from Raptor Call Of The Shadows |
-| [Shortline railroad](https://github.com/konovalov-aleks/reSL) | DOS | ремейк движка | 41 | 3.9 | 2026-08-08 | ✅ | The reversed source code for ShortLine v1.1 game |
-| [The Terminator: SkyNET (skynet-godot)](https://github.com/nemo22/skynet-godot) | DOS | порт | 38 | 3.9 | 2026-10-13 | ✅ | A Godot 4 port of Bethesda's 1996 XnGine shooters SkyNET and Future Shock - plays your own copy of the original game data. |
-| [Supaplex](https://github.com/sergiou87/open-supaplex) | DOS | декомпиляция | 309 | 3.8 | 2026-03-30 | ✅ | Reverse engineering Supaplex |
-| [Quake](https://github.com/DarkPlacesEngine/DarkPlaces) | DOS | порт | 450 | 3.75 | 2026-09-01 | ✅ | The DarkPlaces Quake engine, created by LadyHavoc. Official Git repository (replaces SVN). |
+| [Shortline railroad](https://github.com/konovalov-aleks/reSL) | DOS | ремейк движка | 43 | 3.9 | 2026-08-08 | ✅ | The reversed source code for ShortLine v1.1 game |
+| [The Terminator: SkyNET (skynet-godot)](https://github.com/nautilusbits/skynet-godot) | DOS | порт | 39 | 3.9 | 2026-10-13 | ✅ | A Godot 4 port of Bethesda's 1996 XnGine shooters SkyNET and Future Shock - plays your own copy of the original game data. |
+| [Quake](https://github.com/DarkPlacesEngine/DarkPlaces) | DOS | порт | 451 | 3.75 | 2026-10-21 | ✅ | The DarkPlaces Quake engine, created by LadyHavoc. Official Git repository (replaces SVN). |
 | [Race into Space](https://github.com/raceintospace/raceintospace) | DOS | порт | 233 | 3.75 | 2026-10-09 | ✅ | This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions a… |
-| [Ultima 7 Decomp](https://github.com/Kitrinx/Ultima7_Decomp) | DOS | рекомпиляция | 94 | 3.7 | 2026-10-12 | ✅ | This is a decompiled and byte-verified rebuild of Ultima 7. |
-| [Test Drive III Enhanced](https://github.com/kylofon/testdrive3-enhanced) | DOS | ремейк движка | 25 | 3.7 | 2026-09-30 | ✅ | Enhanced native SDL3 port of Test Drive III: The Passion (1990) - smooth high-resolution 3D view, longer draw distance, smooth steering |
+| [Ultima 7 Decomp](https://github.com/Kitrinx/Ultima7_Decomp) | DOS | рекомпиляция | 96 | 3.7 | 2026-10-20 | ✅ | This is a decompiled and byte-verified rebuild of Ultima 7. |
+| [Test Drive III Enhanced](https://github.com/kylofon/testdrive3-enhanced) | DOS | ремейк движка | 26 | 3.7 | 2026-09-30 | ✅ | Enhanced native SDL3 port of Test Drive III: The Passion (1990) - smooth high-resolution 3D view, longer draw distance, smooth steering |
 | [VanillaConquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) | DOS | порт | 467 | 3.55 | 2026-07-16 | — | Vanilla Conquer provides clean, cross-platform builds of the C&C Remastered Collection and the standalone legacy games. |
 | [Quake](https://github.com/fte-team/fteqw) | DOS | порт | 354 | 3.55 | 2026-06-04 | ✅ | This is the official GitHub mirror for the FTEQW project. |
 | [Prehistorik 2 (missingno7 pre2_port (dos_re))](https://github.com/missingno7/pre2_port) | DOS | порт | 16 | 3.55 | 2026-07-16 | ✅ | Prehistorik 2 DOS_RE Source-Port Workbench |
@@ -82,10 +82,10 @@
 | [Betrayal at Krondor](https://github.com/canassa/betrayal-at-krondor) | DOS | рекомпиляция | 29 | 3.35 | 2026-08-02 | ✅ | Betrayal at Krondor: A byte-perfect recompilation of the 1993 classic. |
 | [Aces of the Pacific Enhanced](https://github.com/kylofon/acesofthepacific-enhanced) | DOS | ремейк движка | 15 | 3.35 | 2026-10-14 | ✅ | Enhanced native SDL3 port of Aces of the Pacific (1992) - smooth high-resolution 3D view, longer view distance, distance haze, key bindings |
 | [re-stunts](https://github.com/CommonLoon102/restunts-bb11) | DOS | рекомпиляция | 15 | 3.35 | 2026-10-06 | ✅ | Vanilla, Chocolate and SDL port for Stunts 1.1 (Brøderbund) |
-| [Test Drive III](https://github.com/kylofon/test-drive-3-sdl3) | DOS | ремейк движка | 13 | 3.35 | 2026-09-23 | ✅ | Reverse engineering and SDL3 port of Test Drive III: The Passion (1990, DOS/VGA) |
+| [Test Drive III](https://github.com/kylofon/test-drive-3-sdl3) | DOS | ремейк движка | 14 | 3.35 | 2026-09-23 | ✅ | Reverse engineering and SDL3 port of Test Drive III: The Passion (1990, DOS/VGA) |
 | [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | браузер | 12 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |
-| [Prince of Persia 2](https://github.com/Supermedo/prince-of-persia-2-windows) | DOS | рекомпиляция | 28 | 3.15 | 2026-09-23 | ✅ | Static recompilation of the DOS Prince of Persia 2 into a native Windows game (recompiler + runtime; needs your own copy of the game) |
-| [Starflight](https://github.com/s-macke/starflight-reverse) | DOS | декомпиляция | 240 | 2.85 | 2026-03-09 | — | Reverse engineered game Starflight (1986) |
+| [Prince of Persia 2](https://github.com/Supermedo/prince-of-persia-2-windows) | DOS | рекомпиляция | 29 | 3.15 | 2026-09-23 | ✅ | Static recompilation of the DOS Prince of Persia 2 into a native Windows game (recompiler + runtime; needs your own copy of the game) |
+| [Starflight](https://github.com/s-macke/starflight-reverse) | DOS | декомпиляция | 241 | 2.85 | 2026-03-09 | — | Reverse engineered game Starflight (1986) |
 | [Fallout (F1DP)](https://github.com/Edw590/F1DP) | DOS | декомпиляция | 23 | 2.85 | 2025-08-10 | ✅ | An engine patcher for the MS-DOS version of Fallout 1 including patches from Crafty's sFall1/sFall, High-Res patch, TeamX, and Fallout Fixt |
 | [Syndicate (SyndicatFX)](https://github.com/swfans/syndicatfx) | DOS | дизасм | 18 | 2.8 | 2025-12-17 | ✅ | Syndicate Fan Expansion, Open Source implementation of the classic game from Bullfrog, based on Syndicate Plus. |
 | [Quake](https://github.com/Rinnegatamante/vitaQuake) | DOS | порт | 143 | 2.75 | 2026-05-01 | — | Port of Quake for Playstation Vita |
@@ -98,12 +98,12 @@
 | [Tyrquake](https://github.com/libretro/tyrquake) | DOS | порт | 49 | 2.6 | 2026-10-12 | — | Libretro port of Tyrquake (Quake 1 engine) |
 | [PlayStunts](https://github.com/ACatWithEbola/playstunts) | DOS | рекомпиляция | 43 | 2.6 | 2026-10-17 | — | Native browser reconstruction of Stunts / 4D Sports Driving, with tools to build from your own original game files. |
 | [Super ZZT (Reconstruction of Super ZZT)](https://github.com/asiekierka/reconstruction-of-super-zzt) | DOS | декомпиляция | 45 | 2.45 | 2025-06-30 | ✅ | The Reconstruction of Super ZZT |
-| [Wolfenstein 3D (ECWolf)](https://github.com/ECWolfEngine/ECWolf) | DOS | порт | 55 | 2.4 | 2026-02-23 | — | Advanced port of Wolfenstein 3D based off of Wolf4SDL. Intends to back port some of the moding features of ZDoom to Wolfenstein 3D. |
+| [Wolfenstein 3D (ECWolf)](https://github.com/ECWolfEngine/ECWolf) | DOS | порт | 56 | 2.4 | 2026-02-23 | — | Advanced port of Wolfenstein 3D based off of Wolf4SDL. Intends to back port some of the moding features of ZDoom to Wolfenstein 3D. |
 | [Wolfenstein 3D (Wolf4SDL)](https://github.com/fabiangreffrath/wolf4sdl) | DOS | порт | 43 | 2.4 | 2026-05-04 | — | SDL-Port of Wolfenstein 3-D and Spear of Destiny |
 | [Doom (Silent Space Marine)](https://github.com/GMH-Code/Dwasm) | DOS | порт | 39 | 2.4 | 2026-04-14 | — | Play the DOOM engine in your browser with PrBoom+ and PrBoomX enhancements! |
 | [Carmageddon (dethrace-ported-to-web)](https://github.com/Carter54git/dethrace-ported-to-web) | DOS | декомпиляция | 37 | 2.4 | 2026-07-05 | — | Reverse engineering the 1997 game "Carmageddon" ported to web browser |
 | [jfwhaven](https://github.com/jonof/jfwhaven) | DOS | порт | 30 | 2.4 | 2025-12-27 | — | No-promises port of the Capstone Software game "Witchaven" |
-| [F-15 II Enhanced](https://github.com/neuviemeporte/f15se2-ex) | DOS | ремейк движка | 26 | 2.4 | 2026-10-19 | — | Port of the reconstructed MS-DOS game F-15 Strike Eagle 2 to modern architectures, with bugfixes and enhancements |
+| [F-15 II Enhanced](https://github.com/neuviemeporte/f15se2-ex) | DOS | ремейк движка | 28 | 2.4 | 2026-10-20 | — | Port of the reconstructed MS-DOS game F-15 Strike Eagle 2 to modern architectures, with bugfixes and enhancements |
 | [Stunts (Restunts)](https://github.com/4d-stunts/restunts) | DOS | декомпиляция | 22 | 2.4 | 2026-08-13 | — | A clone of clvn's restunts SVN repository |
 | [KKND: Krush Kill 'n Destroy](https://github.com/Wyrelade/KKND-Decomp) | DOS | декомпиляция | 8 | 2.4 | 2026-09-24 | — | Matching decompilation of KKND: Krush Kill 'n Destroy (DOS, 1997) - Watcom C, byte-identical rebuild |
 | [SkyRoads](https://github.com/ammaarreshi/SkyRoads-Codex) | DOS | декомпиляция | 195 | 2.2 | 2026-03-08 | — | Reverse engineering a DOS game with no source code using Codex 5.4 |
@@ -123,7 +123,7 @@
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [Wipeout](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) | DOS | порт | 977 | 3.75 | 2024-08-21 | ✅ | An enhanced PC source port of the original WipeOut. |
+| [Wipeout](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) | DOS | порт | 979 | 3.75 | 2024-08-21 | ✅ | An enhanced PC source port of the original WipeOut. |
 | [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | браузер | 418 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
 | [Descent (DXX Retro)](https://github.com/CDarrow/DXX-Retro) | DOS | порт | 52 | 3.55 | 2022-12-16 | ✅ | A source port of Descent 1 and 2, focused on quality competitive play.  Uncompromising commitment to original gameplay (except where the original suc… |
 | [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine) | DOS | порт | 306 | 3.5 | 2024-01-23 | ✅ | A portable, enhanced source port of Doom, Heretic and Hexen. |
@@ -132,7 +132,7 @@
 | [Signus: The Artefact Wars](https://github.com/signus-game/signus) | DOS | порт | 70 | 3.3 | 2023-12-23 | ✅ | Signus: The Artefact Wars. Czech turn-based strategy game similar to Battle Isle series |
 | [dRally](https://github.com/urxp/dRally) | DOS | ремейк движка | 74 | 2.95 | 2023-07-26 | ✅ | Open Source Engine / Death Rally [1996] |
 | [Doom (Calico (Jaguar Doom backport))](https://github.com/team-eternity/calico-doom) | DOS | порт | 57 | 2.95 | 2024-01-10 | ✅ | Backport of Jaguar Doom to the PC |
-| [Abuse](https://github.com/antrad/Abuse_1996) | DOS | порт | 156 | 2.75 | 2016-05-08 | ✅ | SDL2 port of Abuse by Crack dot Com |
+| [Abuse](https://github.com/antrad/Abuse_1996) | DOS | порт | 157 | 2.75 | 2016-05-08 | ✅ | SDL2 port of Abuse by Crack dot Com |
 | [Rise of the Triad (rottexpr)](https://github.com/LTCHIPS/rottexpr) | DOS | порт | 109 | 2.75 | 2021-01-04 | ✅ | A Rise Of The Triad Source Port with additional gameplay options and more... |
 | [In Pursuit of Greed (xGreed)](https://github.com/jval1972/xGreed) | DOS | порт | 37 | 2.75 | 2022-03-19 | ✅ | xGreed - Source Port of the game "In Pursuit of Greed" |
 | [Bedlam 2: Absolute Bedlam](https://github.com/8street/Bedlam2) | DOS | декомпиляция | 23 | 2.65 | 2023-02-18 | ✅ | Source code for Bedlam 2 (1997) game executable file. |

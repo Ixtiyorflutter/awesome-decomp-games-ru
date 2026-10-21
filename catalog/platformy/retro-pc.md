@@ -2,13 +2,13 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **20.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **21.10.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
-1. [Open Fodder](https://github.com/OpenFodder/openfodder) — ремейк движка, ⭐ 606, score 4.15
+1. [Open Fodder](https://github.com/OpenFodder/openfodder) — ремейк движка, ⭐ 607, score 4.35
 2. [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) — порт, ⭐ 252, score 4.1
-3. [Touhou PC-98](https://github.com/nmlgc/ReC98) — декомпиляция, ⭐ 878, score 3.8
+3. [Touhou PC-98](https://github.com/nmlgc/ReC98) — декомпиляция, ⭐ 879, score 3.8
 4. [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) — порт, ⭐ 37, score 3.55
 5. [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) — декомпиляция, ⭐ 45, score 3.25
 6. [Ultima IV: Quest of the Avatar (u4remasteredA2)](https://github.com/sean-gugler/u4remasteredA2) — декомпиляция, ⭐ 77, score 3.05
@@ -20,12 +20,12 @@
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [Open Fodder](https://github.com/OpenFodder/openfodder) | Amiga | ремейк движка | 606 | 4.15 | 2026-06-20 | ✅ | Open Fodder: An open source port of Cannon Fodder |
+| [Open Fodder](https://github.com/OpenFodder/openfodder) | Amiga | ремейк движка | 607 | 4.35 | 2026-10-20 | ✅ | Open Fodder: An open source port of Cannon Fodder |
 | [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) | Commodore 64/8-bit | порт | 252 | 4.1 | 2026-10-17 | ✅ | Repository for the NeoClassical Habitat Server Project |
-| [Touhou PC-98](https://github.com/nmlgc/ReC98) | PC-98 | декомпиляция | 878 | 3.8 | 2026-03-16 | ✅ | The Touhou PC-98 Restoration Project |
+| [Touhou PC-98](https://github.com/nmlgc/ReC98) | PC-98 | декомпиляция | 879 | 3.8 | 2026-03-16 | ✅ | The Touhou PC-98 Restoration Project |
 | [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) | Amiga | порт | 37 | 3.55 | 2026-10-17 | ✅ |  |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | браузер | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
-| [Doom](https://github.com/viciious/d32xr) | Atari Jaguar | порт | 222 | 3.4 | 2026-10-05 | — | A modern port of Doom for the Sega 32X |
+| [Doom](https://github.com/viciious/d32xr) | Atari Jaguar | порт | 222 | 3.4 | 2026-10-20 | — | A modern port of Doom for the Sega 32X |
 | [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) | Amiga | декомпиляция | 45 | 3.25 | 2026-06-01 | ✅ | Stunt Car Racer for the Amiga, Framerate Unleashed |
 | [Elite](https://github.com/markmoxon/elite-source-code-commodore-64) | Commodore 64 | декомпиляция | 474 | 3.05 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Commodore 64 |
 | [Ultima IV: Quest of the Avatar (u4remasteredA2)](https://github.com/sean-gugler/u4remasteredA2) | Apple II | декомпиляция | 77 | 3.05 | 2025-01-25 | ✅ | Ultima IV Remastered for the Apple II |
@@ -56,7 +56,7 @@
 | [Frontier: Elite II (fe2-intro)](https://github.com/watsonmw/fe2-intro) | Amiga | декомпиляция | 51 | 2.45 | 2025-01-05 | ✅ | "Frontier: Elite 2" renderer & audio reverse engineered.  Runs on Amigas with RTG.  Also comes with SDL bindings so it can be run on PC. |
 | [Lode Runner (lode_runner_reveng (literate programming))](https://github.com/XekriRedmane/lode_runner_reveng) | Apple II | декомпиляция | 97 | 2.4 | 2026-07-09 | — | Reverse engineering of Lode Runner for the Apple II series |
 | [Maniac Mansion](https://github.com/pditincho/mm-explained) | Commodore 64/8-bit | декомпиляция | 50 | 2.4 | 2025-12-11 | — | Maniac Mansion C64 explained |
-| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 36 | 2.4 | 2026-10-18 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
+| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 38 | 2.4 | 2026-10-18 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
 | [Rayman (Rayverse)](https://github.com/Falcury/rayverse) | Atari Jaguar | порт | 35 | 2.4 | 2026-02-12 | — | A modern port of Rayman 1 for PC |
 | [Uridium (uridium (+ UridiumFraktion))](https://github.com/mwenge/uridium) | Commodore 64/8-bit | декомпиляция | 26 | 2.4 | 2026-10-03 | — | Uridium (1986) by Andrew Braybrook |
 | [Fred (kmatveev zx-fred-reveng)](https://github.com/kmatveev/zx-fred-reveng) | ZX Spectrum | дизасм | 12 | 2.35 | 2025-07-27 | — | Reverse engineering and optimizations for game Fred for ZX Spectrum |
@@ -87,7 +87,7 @@
 | [The Way of the Exploding Fist (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/wayoftheexplodingfist) | Commodore 64/8-bit | дизасм | 11 | 2.15 | 2023-10-14 | — | A disassembly of The Way of the Exploding Fist, created using SkoolKit. |
 | [Deathchase (Ritchie333 deathchase)](https://github.com/Ritchie333/deathchase) | ZX Spectrum | дизасм | 10 | 2.15 | 2023-11-07 | — | Disassembly and annotation of the classic 1983 computer game "Deathchase" |
 | [Lotus Esprit Turbo Challenge (lotus-ste)](https://github.com/jonathanopalise/lotus-ste) | Atari ST | декомпиляция | 42 | 2.05 | 2021-04-10 | ✅ | Enhancements to the Atari ST version of Lotus Esprit Turbo Challenge to support STE hardware features |
-| [Ultima IV: Quest of the Avatar (u4-decompiled)](https://github.com/ergonomy-joe/u4-decompiled) | Apple II | декомпиляция | 81 | 2 | 2023-10-05 | — | Decompiled source code for the PC version of Ultima IV - Quest Of The Avatar |
+| [Ultima IV: Quest of the Avatar (u4-decompiled)](https://github.com/ergonomy-joe/u4-decompiled) | Apple II | декомпиляция | 82 | 2 | 2023-10-05 | — | Decompiled source code for the PC version of Ultima IV - Quest Of The Avatar |
 | [Lode Runner (Piddewitt Loderunner)](https://github.com/Piddewitt/Loderunner) | Apple II | декомпиляция | 68 | 2 | 2024-04-14 | — | Reverse engineered C64 assembler source code to recreate a bit for bit identical version of the original game. |
 | [Chip's Challenge (CHIPS.EXE)](https://github.com/magical/CHIPS.EXE) | Atari Lynx | дизасм | 23 | 1.95 | 2021-05-20 | — | Disassembly of Chip's Challenge for Windows (1992) aka MSCC |
 | [Ghost Town (Esshahn Ghost-Town)](https://github.com/Esshahn/Ghost-Town) | Commodore 64/8-bit | дизасм | 23 | 1.95 | 2020-04-01 | — | Disassembly of the Commodore 16 game |

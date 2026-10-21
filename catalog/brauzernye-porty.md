@@ -2,7 +2,7 @@
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **20.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **21.10.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -118,7 +118,7 @@
 | [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 418 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
 | [Urban Terror (ut.pieter.com (ioUrbanTerror -> WebAssembly))](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) | PC | 152 | 3.55 | 2023-02-03 | ✅ | The officially supported ioquake3 engine by the Frozen Sand Development Team for the game Urban Terror 4.x |
 | [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | PC | 146 | 3.35 | 2019-10-23 | — | A re-upload of mittorn's Emscripten port of Xash3D. |
-| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 119 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
+| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 121 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
 
 </details>
 
